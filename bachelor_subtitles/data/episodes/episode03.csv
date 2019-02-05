@@ -1,0 +1,1099 @@
+line,type,context,talking,talking_to,words,episode
+0,sound,birds chirping,,,,3
+1,dialogue,,sydney,tayshia,"Last week was a little wild. He's, like, literally dating other people in front of you.",3
+2,dialogue,,tayshia,sydney,In front of our faces.,3
+3,dialogue,,sydney,tayshia,"Yeah. And then you're getting cut off by, like, someone blowing an air horn in my face, so things like that.",3
+4,dialogue,,tayshia,sydney,I can't‐‐yeah.,3
+5,testimony,,sydney,aside,"Last week was a little dramatic. Onyeka and I had some drama. I know that there was some tension between Caelynn and Hannah B., and then last night, there was some drama with Tracy and Demi at the cocktail party. So I'm hoping all the drama is over and I can focus on Colton going into this next week. I hope to God that I'm on a date this week.",3
+6,dialogue,,tayshia,sydney,I'm staying very optimistic to be on the date card this week. I think it's gonna happen.,3
+7,dialogue,,chris,women,Good morning.,3
+8,dialogue,,women,chris,Hey!,3
+9,dialogue,,chris,women,Y'all come on inside.,3
+10,dialogue,,women,chris,Hi!,3
+11,dialogue,,chris,women,How's everybody doing today?,3
+12,dialogue,,women,chris,Good.,3
+13,dialogue,,chris,women,"So how was last week, actually getting into the swing of things here?",3
+14,dialogue,,women,chris,Last week was a lot of really high highs and a lot really low lows. You second‐guess yourself a lot with everything that's going on.,3
+15,dialogue,,chris,women,"To be honest, that's‐‐ I mean, that's part of it. Like, there will be highs, and then there will be lows. That's the way it goes. That's love. My advice-- take advantage of your time with Colton. So this week, three dates... Two group dates and the amazing, romantic one‐on‐one date. It's gonna be a good week. Date card right here.",3
+16,sound,suspenseful music,,,,3
+17,exclamation,,women,self,Ooh!,3
+18,dialogue,,chris,women,Just leave that there.,3
+19,dialogue,,women,chris,"Thanks, Chris.",3
+20,dialogue,,chris,women,Have a great week. I bet I'll be seeing you around.,3
+21,dialogue,,women,chris,See you soon! Bye!,3
+22,dialogue,,demi,women,I think that we all are kind of hoping we can have the one‐on‐one.,3
+23,dialogue,,onyeka,women,Katie.,3
+24,exclamation,,katie,self,Yes.,3
+25,dialogue,,onyeka,women,Heather.,3
+26,exclamation,laughs,heather,self,,3
+27,dialogue,,onyeka,women,Hannah B.,3
+28,exclamation,laughs,hannahb,self,"Oh, yay.",3
+29,testimony,,hannahb,aside,I'm so excited. I get to go on a group date with Colton.,3
+30,dialogue,,onyeka,women,Courtney. Kirpa.,3
+31,exclamation,,kirpa,self,Yay.,3
+32,testimony,,hannahb,aside,But I am hoping that Caelynn's name is not on the card...,3
+33,dialogue,,onyeka,women,Tracy. Demi.,3
+34,testimony,,hannahb,aside,"Because I competed in pageants with Caelynn for years, and she's somebody who I don't get along with.",3
+35,dialogue,,onyeka,women,Caelynn.,3
+36,exclamation,,caelynn,self,Oh. Whoa.,3
+37,dialogue,,onyeka,women,"""I'm looking for life's greatest treasure. Colton.""",3
+38,dialogue,,hannahb,???,"Oh, God, I'm so glad I have you.",3
+39,testimony,,heather,aside,"Hannah and Caelynn know each other from pageants, but they had a falling‐out and they are no longer friends. And now they're on a group date, so... it's gonna be interesting to see how they handle it.",3
+40,dialogue,,women,women,"Let's go. Bye, y'all.",3
+41,testimony,all cheering,caelynn,aside,"I think today will be interesting, because Hannah B. and I have had our differences But I don't want our past to come in between more important things, like Colton. So I just want to have fun on the date today and just be with Colton.",3
+42,sound,rousing music,,,,3
+43,exclamation,"all cheering, laughing, thunder crashing",women,self,"Guys, I am so excited. Let's go, ladies! Let's do it! Oh, my gosh.",3
+44,dialogue,"all cheering, all cheering, all cheering",announcer,women,This is a story of love and heartbreak. But also a pirate story. This is the story of Captain Colton. In search of the greatest treasure the world has ever seen-- love.,3
+45,testimony,blows landing,demi,aside,"Colton's standing on this pirate boat, and he's looking sexy as hell. And I'm like, ""Hello, Colton. ""Life's greatest treasure is standing right in front of you.""",3
+46,dialogue,,colton,pirates,"Hey, you knuckleheads! Knock it off!",3
+47,sound,all laughing,,,,3
+48,exclamation,,women,self,Oh! Yeah!,3
+49,sound,swarthy music,,,,3
+50,testimony,,katie,aside,"Oh, my God, Colton's so sexy.",3
+51,dialogue,,colton,women,Come on down.,3
+52,testimony,,katie,aside,"I'm like, ""Wow."" I think today is gonna be fun.",3
+53,dialogue,,colton,women,"Well, first off, welcome to my pirate ship. Today I would like to introduce you to two of my friends-- pirates Chris and Cindy.",3
+54,dialogue,,cindy,women,"Ahoy, ladies.",3
+55,dialogue,,women,cindy,Ahoy!,3
+56,dialogue,,chrisp,women,"I hear you be searching for love, aye?",3
+57,dialogue,,women,chrisp,Aye! Arr!,3
+58,dialogue,,chrisp,women,"Now, ladies, you're gonna learn how to be pirates. At the end of that training, two of you will be chosen to compete for Captain Colton's heart.",3
+59,dialogue,,women,chrisp,Yes!,3
+60,dialogue,,chrisp,women,What I want you to do is go get changed and meet me back here on the ship. Aye?,3
+61,dialogue,,women,chrisp,"Aye! Aye, aye!",3
+62,dialogue,,chrisp,women,Good.,3
+63,sound,indistinct chatter,,,,3
+64,testimony,,demi,aside,"The two best pirates are going to compete for Colton's heart, and it's perfect for me because I'm a cutthroat kind of chick.",3
+65,dialogue,,demi,women,"I feel like Shakira, Shakira.",3
+66,testimony,,demi,aside,"The job of a pirate is to steal, and I'm here to steal Colton's heart. I don't want to be another one of those yo‐ho‐hos.",3
+67,dialogue,,chrisp,women,On to the pirate training!,3
+68,dialogue,,women,chrisp,Aye!,3
+69,dialogue,,cindy,women,You are going to be taking these and trying to knock each other off.,3
+70,dialogue,,chris,women,Here we go.,3
+71,testimony,,tracy,aside,I am so excited to get in there and show what I can do.,3
+72,dialogue,,chris,women,Begin!,3
+73,sound,upbeat rock music,,,,3
+74,exclamation,,women,self,Oh!,3
+75,dialogue,,hannahb,self,I'm the winner.,3
+76,dialogue,,colton,hannahb,You win.,3
+77,dialogue,,chrisp,hannahb,Your weapon.,3
+78,testimony,,hannahb,aside,I am super competitive.,3
+79,exclamation,,hannahb,self,Arr!,3
+80,dialogue,,chrisp,hannahb,There we go.,3
+81,testimony,,hannahb,aside,"So I'm going to step up to the plate, and the Hannah monster is gonna come out.",3
+82,dialogue,,colton,women,Begin.,3
+83,exclamation,"squeaking, hollers, laughter",women,self,,3
+84,exclamation,bleep,courtney,self,"Oh, .",3
+85,dialogue,,colton,women,Begin!,3
+86,exclamation,"gasps, all chattering",women,self,,3
+87,testimony,,caelynn,aside,Hannah gets so intense in competition...,3
+88,dialogue,,colton,women,Begin!,3
+89,dialogue,squeals,caelynn,hannahb,"Hannah, you're strong. I know you're strong, so, like, be‐‐be gentle. So I'm nervous, because there is just, like, a weird tension thing between us. I don't like this.",3
+90,exclamation,laughter,women,self,,3
+91,dialogue,,courteny,hannahb,"Okay, Hannah! I know how strong she is. That's not fair.",3
+92,testimony,,hannahb,aside,"I'm killing this right now, and I definitely think he noticed me.",3
+93,dialogue,,colton,hannahb,You did a good job.,3
+94,testimony,,hannahb,aside,Feel pretty good. So I'm feeling good.,3
+95,exclamation,,chrisp,self,"Yeah. Oh, there's something going on over there.",3
+96,dialogue,laughs,caelynn,colton,"Ouch, I lost an eye.",3
+97,dialogue,laughs,colton,caelynn,,3
+98,testimony,,hannahb,aside,It's a little frustrating to watch Caelynn engage with Colton right in front of me.,3
+99,dialogue,,colton,caelynn,Nailed it.,3
+100,dialogue,laughs,caelynn,colton,,3
+101,testimony,,hannahb,aside,I'm trying my hardest to not get upset.,3
+102,dialogue,,colton,caelynn,Come down to the captain.,3
+103,testimony,,hannahb,aside,But then Caelynn's just everywhere.,3
+104,dialogue,laughs,caelynn,colton,,3
+105,testimony,,hannahb,aside,"Oh, my gosh. It's like, ugh. I didn't come here to compete in another pageant.",3
+106,dialogue,,chrisp,women,So we have made a decision. There are gonna be two of you competing for Captain Colton's heart.,3
+107,dialogue,,cindy,women,Tracy.,3
+108,sound,applause,,,,3
+109,dialogue,,chrisp,women,And the other woman we chose-- Caelynn.,3
+110,dialogue,,cindy,caelynn,Great job.,3
+111,testimony,,hannahb,aside,"Honestly, um... this sucks.",3
+112,dialogue,,caelynn,tracy,I'm excited.,3
+113,dialogue,,tracy,caelynn,I'm so excited.,3
+114,dialogue,,chrisp,women,And the rest of you get to watch from the poop deck right over there.,3
+115,exclamation,laughter,women,self,,3
+116,testimony,,hannahb,aside,I'm gonna slide on the eye patch and pretend like I can't see it.,3
+117,sound,dramatic swashbuckling music,,,,3
+118,sound,cheers and applause,,,,3
+119,dialogue,,announcer,crowd,Is there anyone who thinks that they have the strength or the courage to save Captain Colton?,3
+120,dialogue,,caelynn,colton,"I will save you, my captain!",3
+121,dialogue,blows raspberry,tracy,colton,Not if I get to you first!,3
+122,testimony,,tracy,aside,I am so excited to save Captain Colton. I think I'm gonna win. That's what I'm here for.,3
+123,dialogue,,announcer,women,Go!,3
+124,testimony,,demi,aside,I don't think it's possible for Tracy to win. She is the worst pirate I've ever seen.,3
+125,dialogue,,announcer,crowd,Here comes Tracy down the rope.,3
+126,sound,cheers and applause,,,,3
+127,testimony,,caelynn,aside,"It feels good to be a pirate. A winning pirate, hopefully.",3
+128,dialogue,cheers and applause,crowd,women,"Let's go, ladies!",3
+129,dialogue,,announcer,crowd,Tracy goes down!,3
+130,dialogue,,announcer,crowd,"There goes Caelynn, up to untie Colton.",3
+131,sound,cheers and applause,,,,3
+132,dialogue,,colton,caelynn,Are you saving me?,3
+133,dialogue,,caelynn,colton,I am!,3
+134,dialogue,,colton,caelynn,"Oh, you gotta cut it.",3
+135,dialogue,,announcer,crowd,Caelynn saves Colton!,3
+136,sound,cheers and applause,,,,3
+137,sound,melancholy music,,,,3
+138,testimony,,hannahb,aside,"It's not easy to see Caelynn continue moving forward with Colton. It brings out all of my insecurities, and I start to spiral. But if Colton knew the truth about Caelynn‐‐ who she truly is‐‐ I think he would feel differently about her, and he needs to know tonight.",3
+139,sound,dramatic music,,,,3
+140,sound,mellow music,,,,3
+141,sound,indistinct chatter,,,,3
+142,exclamation,laughs,women,self,"Oh, it's cute. This is cool. Today was really, really, really fun. This is actually really cute.",3
+143,testimony,,heather,aside,"Feelings are definitely developing for Colton. I feel like each week that goes by, it gets deeper and deeper. But it's hard on the group date to really have that really deep connection, and so a lot of the girls are feeling extremely nervous.",3
+144,dialogue,,colton,women,"I just want to let you guys know how much fun I had today, and it was really cool to see all of your personalities start to come out. So let's make a toast to that.",3
+145,dialogue,,all,all,Cheers.,3
+146,testimony,laughs,demi,aside,"I think it is gonna be pretty crazy with all of the girls fighting for Colton's time and attention‐‐ maybe a little catty and whatnot‐‐ especially because the two pageant girls don't get along. I'm sure that they're each thinking, ""There can be only one."" But I'm not worried about the other girls. Hopefully they crash and burn.",3
+147,dialogue,,colton,katie,"One thing that I noticed is just how real you keep it. Just watching you in, like, the group setting today, you were having so much fun.",3
+148,dialogue,,katie,colton,I was having so much fun.,3
+149,dialogue,,colton,katie,Yeah.,3
+150,dialogue,,katie,colton,"Like, weren't you?",3
+151,dialogue,,colton,katie,Yeah.,3
+152,dialogue,laughs,colton,katie,"We were literally... I was, like, probably being a weirdo.",3
+153,dialogue,,katie,colton,A dork.,3
+154,dialogue,,colton,katie,But‐‐,3
+155,dialogue,,katie,colton,You were.,3
+156,dialogue,,colton,katie,I was?,3
+157,dialogue,laughs,katie,colton,,3
+158,dialogue,,colton,katie,"You were too, so‐‐",3
+159,dialogue,,katie,colton,"Okay, good.",3
+160,dialogue,,colton,katie,"Well, we have that in common.",3
+161,dialogue,laughs,katie,colton,I just like to call you out.,3
+162,dialogue,,colton,katie,"I'll give it right back to you, so...",3
+163,dialogue,laughs,katie,colton,"Good, good.",3
+164,dialogue,,colton,katie,"You know, our time together is always very effortless... And we have a lot in common too, so I have a really good read‐‐",3
+165,dialogue,,katie,colton,"So much in common. Like, if we started listing our, like, five favorite things, like, I'd be scared.",3
+166,dialogue,,colton,katie,Did it.,3
+167,dialogue,,katie,colton,Sashimi.,3
+168,dialogue,,colton,katie,Food will always be a passion of mine.,3
+169,dialogue,,katie,colton,"I hate it. I said it on ""Ellen."" I was like, ""Oh, my God, I'm so dumb.""",3
+170,dialogue,,colton,katie,"Yeah, that's‐‐that's why I was like, ""If she's talking about food...""",3
+171,dialogue,,katie,colton,"I was like, ""We're in this to win this.""",3
+172,dialogue,,colton,katie,Great first impression.,3
+173,dialogue,laughs,katie,colton,,3
+174,dialogue,,colton,katie,But...,3
+175,dialogue,,katie,colton,I like you. I think you are so great.,3
+176,dialogue,,colton,katie,I like you too.,3
+177,dialogue,,katie,colton,There is no other Katie.,3
+178,dialogue,,colton,katie,Yeah. Mm.,3
+179,dialogue,laughs,katie,colton,,3
+180,dialogue,,demi,women,"The rose is up for grabs, but I think, based off of the roses that he's been giving, we really don't know his type. And to assume that we know his type, that's just a foolish thing to do.",3
+181,dialogue,,tracy,demi,"You used the phrase ""his type."" I just personally think, when I was younger, I thought I liked a certain type, and I always dated the same type. And then I realized, eventually, I needed to branch out from that.",3
+182,dialogue,,demi,tracy,"Well, I can't imagine‐‐ like, if I were an older girl and I was surrounded by younger women, like, I can't imagine how uncomfortable I would feel.",3
+183,exclamation,laughs,???,self,,3
+184,dialogue,bleep,demi,tracy,"Like, I would be pissed, and I would be like, ""Y'all don't know ."" You know what I mean? Especially after your experience and everything.",3
+185,dialogue,,tracy,demi,That's not how I view you guys at all. You're taking personally me giving you a different point of view on something.,3
+186,dialogue,,demi,tracy,And it's been made very clear that you're making attacks on me right now.,3
+187,dialogue,,tracy,demi,"Like, I'm not sitting here trying to argue with anyone. I don't care to do that.",3
+188,dialogue,,demi,tracy,"You make, like, passive‐aggressive comments that you think that I'm not gonna pick up on and I'm just gonna be like, ""Okay."" But no, I hear what you're saying to me.",3
+189,dialogue,,tracy,demi,Okay. That's fine.,3
+190,sound,testy music,,,,3
+191,dialogue,,demi,tracy,I feel so bad for you.,3
+192,testimony,,demi,aside,"Tracy, she can be passive‐aggressive and condescending towards me and some of the other girls. I don't like it, but being an older woman around a whole bunch of younger women‐‐ and especially the fact that all of us are so beautiful and she is in the cougar club‐‐ so I would be freaking out if I was her.",3
+193,dialogue,,courtney,colton,How are you?,3
+194,dialogue,,colton,courtney,"Good, how are you doing?",3
+195,testimony,,demi,aside,"The group dates are really intense because you are kind of, like, having to fight for a little bit of attention.",3
+196,dialogue,,courtney,colton,"Today was a really fun day, I think. I had a good time, and I didn't think I was gonna have a good time.",3
+197,testimony,,demi,aside,I don't ever have to worry about Colton. I know he wants to spend time with me. But I'm gonna do what I have to do tonight to get the rose from Colton.,3
+198,dialogue,,courtney,colton,"It's difficult in group settings, and I‐‐",3
+199,dialogue,,colton,courtney,Yeah.,3
+200,dialogue,,courtney,colton,"You know, I'm not used to that, so it's just, like‐‐ I don't know.",3
+201,dialogue,,colton,demi,Hey.,3
+202,dialogue,,demi,colton,Can I steal you?,3
+203,dialogue,,colton,demi,Yeah.,3
+204,dialogue,,demi,colton,Let's go.,3
+205,dialogue,,courtney,colton,Thanks for today.,3
+206,dialogue,,colton,courtney,Yeah.,3
+207,dialogue,,colton,demi,All right. How are you?,3
+208,dialogue,,demi,colton,"Hi, it's so good to see you.",3
+209,dialogue,,colton,demi,It's so good seeing you.,3
+210,dialogue,"bleep, laughs, bleep",demi,colton,"I had so much fun today. I just wanted to like, you know, . Today, I remember going, ""Oh, my God, like, I'm so excited to see him."" And, like, every time, like, I smell you, I'm like, ""Mmm."" You know what I mean?",3
+211,dialogue,,colton,demi,Yeah.,3
+212,dialogue,,demi,colton,And I can tell I always make you nervous.,3
+213,dialogue,,colton,demi,Yes.,3
+214,dialogue,laughs,demi,colton,"It's really fun, though.",3
+215,dialogue,,colton,demi,Yeah.,3
+216,testimony,,demi,aside,"I think the other girls, whenever they spend their time with Colton, they're all doing the same thing.",3
+217,dialogue,,demi,colton,I'm gonna blindfold you. Is that okay?,3
+218,dialogue,,colton,demi,"Oh, boy. Yeah.",3
+219,testimony,,demi,aside,"And so I'm gonna stand out, whereas they're all just gonna blend in and he's gonna get over it.",3
+220,dialogue,,demi,colton,Just bend over a little bit. Bend over a little bit. Trust me.,3
+221,dialogue,,colton,demi,I'm blindfolded and bending over.,3
+222,dialogue,,demi,colton,Yeah.,3
+223,dialogue,"laughing, laughs",colton,demi,All right. And now I'm getting spanked. Okay.,3
+224,testimony,,demi,aside,I think that he really appreciates how I have fun with him and I'm not all serious all the time.,3
+225,dialogue,,demi,colton,Are you feeling nervous?,3
+226,dialogue,,colton,demi,"Um, yep.",3
+227,dialogue,,demi,colton,You feeling a little more nervous?,3
+228,dialogue,,colton,demi,Yep.,3
+229,dialogue,,demi,colton,Nervous?,3
+230,dialogue,"laughs, stammers",colton,demi,,3
+231,dialogue,both laughing,demi,colton,Look at it. It's a fake hand.,3
+232,testimony,,demi,aside,"I'm the only one who challenges Colton, and I excite him, and I make him nervous.",3
+233,sound,saucy music,,,,3
+234,dialogue,"sighs, bleep",courtney,women,"I'm, like, 'cause I'm so pissed.",3
+235,dialogue,,women,courtney,Why?,3
+236,dialogue,,courtney,women,Demi came and took him It's okay. We talked. We didn't talk that long...,3
+237,dialogue,,women,courtney,Yeah.,3
+238,dialogue,sighs,courtney,women,"And Demi came up and... Sorry, I'm just, like‐‐ It just‐‐the way‐‐ the tone of voice.",3
+239,dialogue,,women,courtney,Right.,3
+240,dialogue,,courtney,women,The‐‐the mannerisms.,3
+241,dialogue,,women,courtney,Yeah.,3
+242,dialogue,,courtney,women,"The way you do it, you know?",3
+243,dialogue,,women,courtney,That's all that matters.,3
+244,dialogue,,courtney,women,There's also all the other factors.,3
+245,dialogue,,???,courtney,"I mean, obviously, everyone would want the rose, but at the end of the day‐‐",3
+246,dialogue,,courtney,demi,Do you wanna come chat with me?,3
+247,sound,suspenseful music,,,,3
+248,dialogue,,demi,courtney,"Okay, sure.",3
+249,dialogue,,courtney,demi,"Do you want to go over here? So I just think sometimes your delivery can be... maybe a little different than you would like it to be, and the way‐‐",3
+250,dialogue,,demi,courtney,What?,3
+251,dialogue,,courtney,demi,"The way that you did it, it just seemed very saucy to me.",3
+252,dialogue,,demi,courtney,That doesn't make‐‐ that doesn't make any sense to me.,3
+253,dialogue,,courtney,demi,Just be more aware. I think it's really easy‐‐,3
+254,dialogue,laughs,demi,courtney,"I'm going to be who I am, and I‐‐I'm always aware.",3
+255,dialogue,,courtney,demi,I know. I'm not saying don't be who you are.,3
+256,dialogue,,demi,courtney,"Yeah, I know. But I am annoyed by this conversation. I'm not gonna do this, dude.",3
+257,testimony,,demi,aside,"Courtney had a problem with, like, the tone that I was using, and that just didn't make any sense to me. I don't understand what she wanted me to do. Um, lower my voice or something? None of the girls really have the balls to, like, maintain a problem with me. They know that I'm not afraid of them and I'm gonna stand up for myself, and they're intimidated by my confidence and how untouchable I am, so I'm not worried about them.",3
+258,sound,crunching,,,,3
+259,sound,mischievous music,,,,3
+260,dialogue,,???,women,How do you guys think the date's going?,3
+261,dialogue,,nicole,women,"They're probably at that cocktail party right now, and I bet you things are going down. Like, for sure. Like, people are stealing Colton from who knows who, like...",3
+262,sound,all laughing,,,,3
+263,sound,knock at door,,,,3
+264,dialogue,,elyse,women,Date card.,3
+265,testimony,,caitlin,aside,"I want to be on the date card. It would be nice to be able to have a full day with him. That'd be a great spot to be in, to be honest.",3
+266,dialogue,,catherine,women,Elyse.,3
+267,exclamation,laughs,women,self,"Oh, my gosh! Oh, my goodness.",3
+268,dialogue,,catherine,women,"""Love is in the air.""",3
+269,sound,all gasp,,,,3
+270,exclamation,laughter,women,self,"Oh, my gosh. Okay! Oh, my goodness. Yes!",3
+271,testimony,,cassie,aside,"I'm pretty sad I didn't get a date tonight, obviously.",3
+272,dialogue,laughing,elyse,self,That'd be great.,3
+273,testimony,,cassie,aside,"It's hard to see someone else... like, get that when it's something you really want.",3
+274,dialogue,,catherine,elyse,Cheers to you getting a date card.,3
+275,exclamation,,???,self,Yes.,3
+276,testimony,clicks tongue,cassie,aside,I'm so scared I'm gonna be the one who doesn't get a date this week. I'm just... Worried about not getting time.,3
+277,sound,dramatic music,,,,3
+278,sound,mellow music,,,,3
+279,dialogue,,caelynn,colton,Who would think that you're having a date at an antique shop?,3
+280,dialogue,,colton,caelynn,Right?,3
+281,dialogue,,caelynn,colton,It's so beautiful.,3
+282,dialogue,,colton,caelynn,Yes.,3
+283,dialogue,laughs,caelynn,colton,,3
+284,dialogue,,colton,caelynn,You look beautiful tonight.,3
+285,dialogue,,caelynn,colton,Thank you. You look really great yourself.,3
+286,dialogue,,colton,caelynn,How you doing?,3
+287,dialogue,,caelynn,colton,I'm good. I seriously had the best time. It was fun. I'm glad I got to save you.,3
+288,dialogue,,colton,caelynn,"I'm glad you got to save me too. I wanted to let you know, though... I know at times, for me, this is a little difficult...",3
+289,dialogue,,caelynn,colton,Mm‐hmm.,3
+290,dialogue,,colton,caelynn,"And I felt like... you know, in the moment...",3
+291,dialogue,,caelynn,colton,Mm‐hmm.,3
+292,dialogue,,colton,caelynn,"That we were having up there, I sort of‐‐",3
+293,dialogue,,caelynn,colton,It's awkward. It's just awkward.,3
+294,dialogue,,colton,caelynn,"Yeah, and I‐‐ and I wanted to talk to you about that, because I didn't do it right. Because it was‐‐ it was our moment, and it's something that, you know, I struggle with, especially because I like you, and...",3
+295,dialogue,,caelynn,colton,I like you too.,3
+296,dialogue,,colton,caelynn,Wanted to do something that I should have done up there.,3
+297,dialogue,,caelynn,colton,And what's that?,3
+298,dialogue,,colton,caelynn,Give you a real kiss.,3
+299,dialogue,,caelynn,colton,Mm.,3
+300,testimony,,colton,aside,"When I'm with Caelynn, my guard comes completely down.",3
+301,dialogue,,colton,caelynn,Winner.,3
+302,dialogue,laughs,caelynn,colton,That's crazy.,3
+303,dialogue,,colton,caelynn,The pirate‐‐the pirate champ.,3
+304,dialogue,laughs,caelynn,colton,"No one expected that. Everyone was like, ""Caelynn's not winning.""",3
+305,testimony,,colton,aside,Caelynn continues to really just be a lot of the things that I'm looking for. So I'm so excited for Caelynn and I's relationship.,3
+306,dialogue,,caelynn,colton,I could just kiss you for days.,3
+307,sound,laughs,,,,3
+308,dialogue,,hannahb,heather,"We used to be friends, that's the freaking weird thing is the person that I was friends with is a different personality than this girl.",3
+309,dialogue,,heather,hannahb,"This is what I think. If you genuinely believe and like, she is that way, then, like you have to tell him.",3
+310,sound,tense music,,,,3
+311,dialogue,,colton,caelynn,"You keep surprising me, and I like it. I like you.",3
+312,dialogue,,caelynn,colton,Thank you.,3
+313,testimony,,hannahb,aside,"It is hard to see him developing a connection with her, because I know her. I'm, like, ""be‐fumbled."" Like, I mean, I don't know another word.",3
+314,dialogue,,colton,caelynn,I'll take the top.,3
+315,dialogue,laughs,caelynn,colton,,3
+316,testimony,sighs,hannahb,aside,"I don't think she's showing her true self and every side of her. That's why I'm, like... so shook. So he needs to know the truth.",3
+317,dialogue,,colton,hannahb,How are you?,3
+318,dialogue,,hannahb,colton,Good.,3
+319,dialogue,,colton,hannahb,Are you?,3
+320,dialogue,laughs,hannahb,colton,"Well, I think I have to, like, talk to you about something, and I don't want to.",3
+321,dialogue,,colton,hannahb,"Well, you want‐‐ what do you want to talk to me about?",3
+322,dialogue,inhales deeply,hannahb,colton,"I just, like, have something, like, on my mind, and, like... I feel like it's, like, bothering me, in a way, and I just need to, like, tell you, and then I don't know. But basically, like, me and Caelynn, we were friends. Like, we were roommates at Miss USA, which is already, like, a really intense situation, and I think we handle stress a lot differently. Then just, like, as the year went on, there was, like, just a few things that happened that‐‐ Like, we‐‐I guess, like, a fallout, I guess you could say. And, like, we haven't‐‐ we haven't talked to each other since.",3
+323,dialogue,,colton,hannahb,"Is there something, though, like‐‐'cause you said a lot of things happened. Is there something that I should know?",3
+324,dialogue,,hannahb,colton,"I think it's more like, uh... It was just... I was just in a high-stress situation with her and was, like, the most hostile environment I've ever been in.",3
+325,dialogue,,colton,hannahb,"Are you saying, like‐‐ is she mean? Is she manipulative? Is she fake? Is she... Well, that‐‐that look's... not a good one.",3
+326,dialogue,,hannahb,colton,"So it's, like, hard, 'cause I'm like... If that's what you want then you don't want me.",3
+327,dialogue,,colton,hannahb,It's like‐‐it's like that?,3
+328,dialogue,,hannahb,colton,"Like, no, I want‐‐ but, like, that's what I feel like. I'm like...",3
+329,dialogue,,colton,hannahb,"So you feel like if I even have feelings for her, I can't have feelings for you because you guys are‐‐ you feel like you are that different.",3
+330,dialogue,sighs,hannahb,colton,No.,3
+331,dialogue,sighs,colton,hannahb,,3
+332,dialogue,,hannahb,colton,I'm really sorry.,3
+333,dialogue,sighs,colton,hannahb,"No, it's just‐‐I just think, right now, I just‐‐ I'm gonna have to, like, take some time and just figure this thing out. All right, let's‐‐we'll talk about this later. Okay.",3
+334,dialogue,,hannahb,colton,Can you just give me at least a peck?,3
+335,sound,tense music,,,,3
+336,dialogue,laughs,hannahb,colton,,3
+337,dialogue,,hannahb,self,He friggin' hates me.,3
+338,testimony,,colton,aside,"Leaving off my conversation with Hannah, I don't feel great about it. I'm... confused, frustrated.",3
+339,dialogue,,colton,caelynn,"Caelynn, can we go chat?",3
+340,dialogue,,caelynn,colton,Yeah.,3
+341,dialogue,,???,women,What was that about?,3
+342,dialogue,,courtney,women,"I have no idea. I have no clue. I‐‐you know, well, I shouldn't.",3
+343,dialogue,,caelynn,colton,So what's on your mind?,3
+344,dialogue,,colton,caelynn,"So... I'm a little‐‐like, right now, I'm just a little confused and frustrated, 'cause...",3
+345,dialogue,,caelynn,colton,What's up?,3
+346,dialogue,,colton,caelynn,I had a conversation with‐‐ with Hannah.,3
+347,dialogue,,caelynn,colton,Oh.,3
+348,dialogue,,colton,caelynn,"The conversation was along the lines of, your guys' relationship no longer... is good.",3
+349,dialogue,,caelynn,colton,Mm‐hmm.,3
+350,dialogue,,colton,caelynn,"And the words, like, ""hostile"" and... she had to, like, remove herself from the friendship. And then‐‐quite frankly, I didn't get a lot of clarity on the situation from her side either, so I just wanna talk to you about that.",3
+351,dialogue,,caelynn,colton,"No, I would love to be completely open and honest. Um, yeah, we were‐‐ we were friends. But then we were in a competitive environment at‐‐at Miss USA, and I feel like... um, we‐‐we handle competition differently. Like, for me, I just‐‐ I get very quiet.",3
+352,dialogue,,colton,caelynn,Yeah.,3
+353,dialogue,,caelynn,colton,"Um, and... there's things that, like, I haven't, like, talked to you about that have been, like, traumatic experiences in my life that deeply hurt me. And‐‐and I mean, it's like‐‐ it's stuff that, like, I've wanted to talk to you about, but it's like...",3
+354,dialogue,,colton,caelynn,Right.,3
+355,dialogue,bleep,caelynn,colton,"It's as the relationship progresses. Like, it's, like, real‐life . It's not just, like‐‐ you know? And it's something that, like, I‐‐I had intentions of bringing up to you because it's some stuff that's, like, affected my life. Um, but not tonight and not right now, you know?",3
+356,dialogue,,colton,caelynn,Yeah.,3
+357,dialogue,,caelynn,colton,"And, um‐‐I don't know.",3
+358,sound,laughs,,,,3
+359,dialogue,,colton,caelynn,That's all right.,3
+360,dialogue,,caelynn,colton,"I just‐‐like, I felt like we had a great time together, and I would hate for you to, like, doubt that ever.",3
+361,sound,somber music,,,,3
+362,dialogue,,katie,women,He didn't look comfortable.,3
+363,dialogue,,???,women,He definitely did not. It looked like that was not‐‐ It felt uncomfortable.,3
+364,dialogue,,katie,women,"It felt very uncomfortable, so, um... and we'll just have to see what happens.",3
+365,dialogue,tense music,demi,colton,"Oh, babe, hey.",3
+366,dialogue,,demi,women,Oh. This is extremely uncomfortable now.,3
+367,dialogue,,caelynn,colton,Hey.,3
+368,dialogue,,colton,caelynn,How are you?,3
+369,dialogue,,caelynn,colton,I'm okay.,3
+370,dialogue,,colton,caelynn,I want you to know that... I like you a lot. And this is about our time together... and our connection.,3
+371,dialogue,clears throat,caelynn,colton,,3
+372,dialogue,,colton,caelynn,And the fact that you saved me today on the pirate ship.,3
+373,dialogue,laughs,caelynn,colton,,3
+374,dialogue,,colton,caelynn,"So, Caelynn, will you accept this rose?",3
+375,dialogue,laughs,caelynn,colton,I will. Thank you.,3
+376,dialogue,,colton,caelynn,Yep.,3
+377,sound,mellow music,,,,3
+378,dialogue,,colton,caelynn,Come on.,3
+379,testimony,"sighs, sniffles",hannahb,aside,"He gave her the first rose. He gave her the second rose. He gave her the rose on the date. Like, he likes her. It's very frustrating... And hurtful. I probably just ruined my chances, and... I don't know how to fix it.",3
+380,sound,indistinct chatter,,,,3
+381,testimony,bleep,caelynn,aside,"I've been through a lot of adversity in my life, so for her to say some made‐up and try and break up a real relationship, it's incredibly frustrating. It's like‐‐it's infuriating.",3
+382,dialogue,,demi,caelynn,"Why are you crying? What's up, girl?",3
+383,dialogue,,caelynn,women,"I should be happy, but I'm not because it's, like, personal stuff that I don't want‐‐",3
+384,dialogue,,demi,caelynn,"Yeah, no, you don't have to share with me at all. I was just asking.",3
+385,dialogue,,caelynn,demi,Yeah.,3
+386,testimony,sniffles,caelynn,aside,"For some reason, Hannah B., like, I trigger her. I'm a trigger for her. And I want him to send her home because he's being lied to.",3
+387,sound,dramatic music,,,,3
+388,sound,tense music,,,,3
+389,dialogue,,caelynn,women,"It just, like, sucks, 'cause I should be really happy, and I'm not. Like, I feel like that was taken away from me, like, the joy of getting, like, a date‐‐a group date rose. It was, like... overshadowed, and I'm still not happy. I keep crying.",3
+390,dialogue,,onyeka,caelynn,It's okay. You can be sad.,3
+391,testimony,,caelynn,aside,It's been an emotional couple of days.,3
+392,dialogue,,caelynn,women,I'm shaking. I can't sleep. I don't feel good.,3
+393,testimony,,caelynn,aside,"Hannah B. and I, we've been friends. We're not friends anymore. But it's‐‐it's not good. And now she could be ruining my relationship with Colton. I'm scared of her retaliation. Like, what else is she gonna do? I knew this was gonna happen when she came on the show but, like, not to this extent.",3
+394,dialogue,,heather,hannahb,What happened with Colton?,3
+395,dialogue,,hannahb,heather,"I don't remember how I said it. Like, ""If you're looking for, like, someone to, like, spend the rest of your life with and you, like, have a connection with her and have a connection with me, like, we're totally different."" And then he was like, ""Well, that's a bold statement, Hannah."" He was like, ""I really, really like you, and this is freaking me out.""",3
+396,testimony,,hannahb,aside,"Last night with Colton, I messed up, but if he's really attracted to both of us and it starts getting smaller and smaller, I don't know what's gonna happen.",3
+397,dialogue,,hannahb,heather,"I would suck, like, if he sent me home before her. Like, I would be like, ""You're a freaking idiot.""",3
+398,dialogue,,elyse,colton,What are we doing?,3
+399,dialogue,,colton,elyse,It will be in the air.,3
+400,dialogue,,elyse,colton,You already gave me that hint.,3
+401,dialogue,,colton,elyse,Oh.,3
+402,dialogue,,elyse,colton,"Like, that was on a date card.",3
+403,testimony,,elyse,aside,Today is my first one‐on‐one with Colton. And I'm just stinking excited.,3
+404,dialogue,,elyse,colton,There's only so many things that go in the air. Hot air balloon?,3
+405,dialogue,,colton,elyse,You'll have your answer soon.,3
+406,testimony,,elyse,aside,I'm looking forward to whatever this date may be. But God forbid there's any sort of bungee cord involved.,3
+407,dialogue,,colton,elyse,Here we are.,3
+408,dialogue,,elyse,colton,"Oh, was I wrong?",3
+409,dialogue,laughs,colton,elyse,,3
+410,dialogue,,elyse,colton,I've never been in a helicopter.,3
+411,dialogue,,colton,elyse,Me neither.,3
+412,dialogue,,elyse,colton,"Oh, now I'm really excited.",3
+413,sound,helicopter rotors whirring,,,,3
+414,dialogue,laughs,colton,elyse,,3
+415,dialogue,,elyse,colton,"Oh, my‐‐ Oh, okay!",3
+416,sound,exciting music,,,,3
+417,dialogue,,elyse,colton,Where are we going?,3
+418,dialogue,,colton,elyse,You're going to have to wait to find out,3
+419,dialogue,laughs,elyse,colton,Okeydokey!,3
+420,testimony,,colton,aside,"Today we are flying to San Diego, and I can't wait to see the look on her face when we get there.",3
+421,dialogue,,colton,elyse,You doing okay?,3
+422,dialogue,,elyse,colton,Incredible.,3
+423,testimony,,elyse,aside,"With Colton, we do have an age difference. I'm six years older than him. So I need to make sure that we're on the same page moving forward.",3
+424,dialogue,,colton,elyse,So welcome to San Diego. Today we are going to Belmont Park. Let's go.,3
+425,testimony,,elyse,aside,So I am very much looking forward to uninterrupted time with him.,3
+426,dialogue,,colton,elyse,So today this whole entire park is ours to go enjoy. And I know today was supposed to be a one‐on‐one... But it's not.,3
+427,dialogue,,elyse,colton,Why?,3
+428,dialogue,,colton,elyse,It's a group date.,3
+429,sound,tense music,,,,3
+430,testimony,,elyse,aside,Not pleased. I thought all the girls were gonna be left back home today. That is what a one‐on‐one is.,3
+431,dialogue,,elyse,colton,Okay.,3
+432,dialogue,,colton,kids,"Hey, guys, come on out.",3
+433,dialogue,,elyse,colton,What's going‐‐,3
+434,sound,kids screaming,,,,3
+435,dialogue,,colton,kids,How are you?,3
+436,dialogue,,elyse,kids,Hi!,3
+437,dialogue,,colton,kids,How are you doing?,3
+438,testimony,,elyse,aside,Around the corner comes the cutest kids ever. That was a great surprise. And a massive sigh of relief that the girls are still back in LA and we get to play with these kids all day long.,3
+439,dialogue,,colton,kids,Are you guys ready to have fun?,3
+440,dialogue,kids screaming,kids,colton,Yeah.,3
+441,dialogue,laughs,elyse,kids,Ditto.,3
+442,exclamation,laughs,kids,self,Last one on is a rotten egg! Whoo! First one there!,3
+443,sound,tender music,,,,3
+444,exclamation,,kids,self,I've never been to a carnival before.,3
+445,dialogue,,colton,kids,"You've never been to a carnival? One, two, three.",3
+446,dialogue,,elyse,kids,"What's your name, babe? Oh, it's nice to meet you.",3
+447,testimony,,elyse,aside,"Colton works with his charity with kids that are hospitalized and getting them out on dates like this, which is really, really touching.",3
+448,dialogue,,colton,kids,My name's Colton. Nice to meet you.,3
+449,dialogue,,kids,colton,"I saw you. I watched ""The Bachelorette"" with my mom, all of it.",3
+450,dialogue,,colton,kids,You did?,3
+451,testimony,laughs,elyse,aside,"To be able to see the smiles on these kids' faces, I'm not sure who was smiling more. I'm a smitten kitten right now.",3
+452,dialogue,,colton,kids,Is everybody ready?,3
+453,dialogue,,kids,colton,Yeah!,3
+454,dialogue,laughing,colton,kids,You don't have to hold on quite so tight.,3
+455,dialogue,kids screaming,kids,colton,Colton. Colton! Aww! Whoo! Whoo!,3
+456,dialogue,,colton,kids,Got it! What toy do you want? One of the emojis?,3
+457,testimony,,kids,aside,"I never gone to a fair before, but this is my first time, and it's been really fun.",3
+458,testimony,,elyse,aside,To see a guy that you're potentially starting a relationship with and building a connection with around kids is probably the sexiest thing ever.,3
+459,dialogue,,colton,kids,"You got it. All right, I got you a penguin. All right. So your advice for me with Elyse would be to what?",3
+460,dialogue,,kids,colton,Get her cotton candy.,3
+461,dialogue,,colton,kids,Is there anything else? Do you guys have boyfriends?,3
+462,dialogue,,kids,colton,"Once, a boy kissed me on the lips.",3
+463,dialogue,,colton,kids,You've already had your first kiss?,3
+464,dialogue,,kids,colton,Yes.,3
+465,dialogue,,colton,kids,Did you like it?,3
+466,dialogue,,kids,colton,No!,3
+467,dialogue,,colton,kids,No?,3
+468,dialogue,"shrieks, kids screaming",kids,colton,,3
+469,dialogue,,colton,kids,"Oh, boy. Here we go.",3
+470,sound,kids screaming,,,,3
+471,sound,bell dings,,,,3
+472,dialogue,,colton,kids,Got it! Whoo!,3
+473,dialogue,,colton,elyse,Here you go.,3
+474,dialogue,,elyse,colton,Thank you.,3
+475,dialogue,,colton,elyse,Yes.,3
+476,dialogue,,elyse,colton,Thank you.,3
+477,dialogue,,colton,kids,Got her a bear.,3
+478,dialogue,,elyse,colton,This is the best group date ever.,3
+479,dialogue,,colton,elyse,"The cool thing about this date is, like, this is very, very close to, like, what I do. My little cousin Harper was born with cystic fibrosis at the same time that I was playing, you know, football. So it gave me that platform to really, like, start something that was meaningful. So my charity gets kids out of the hospital.",3
+480,dialogue,,elyse,colton,Right.,3
+481,dialogue,,colton,elyse,And their parents... get to watch them be a kid. I am fortunate enough to get to watch that a lot.,3
+482,sound,upbeat music,,,,3
+483,dialogue,,colton,elyse,"All right, welcome to our ice cream shop. What would you guys like? One at a time.",3
+484,testimony,,elyse,aside,This day has been like birthdays and Christmases and every holiday just mushed in together.,3
+485,dialogue,,colton,kids,Rocky road in a cone. Who had that?,3
+486,dialogue,,elyse,kids,"Another scoop? My girl. Don't tell, but I gave you the biggest",3
+487,testimony,,elyse,aside,"I don't think any of these kids are gonna be forgetting today, and I know for sure I'm not going to be.",3
+488,sound,roller coaster clattering,,,,3
+489,dialogue,,colton,elyse,Look at this. Look at the view.,3
+490,dialogue,,elyse,colton,I'm gonna look that way so I don't notice what's about to happen. Why are we stopped?,3
+491,dialogue,,colton,elyse,I just want to thank you for an unbelievable day.,3
+492,dialogue,laughs,elyse,colton,You're stopping‐‐,3
+493,dialogue,,colton,elyse,"I had so much fun, and it's so nice to see you so good with the kids.",3
+494,dialogue,,elyse,colton,Aw. Aw.,3
+495,sound,romantic music,,,,3
+496,dialogue,laughs,elyse,colton,If this thing stops I'm gonna be so scared.,3
+497,dialogue,,colton,elyse,Feel like we gotta put your hands up.,3
+498,exclamation,,elyse,self,"Oh, my God. Oh, my God. Oh, my God.",3
+499,dialogue,,colton,elyse,Gotta put your hands up. Gotta put your hands up.,3
+500,exclamation,,elyse,self,I'm really scared.,3
+501,exclamation,,colton,self,"Oh, boy!",3
+502,testimony,screams,elyse,aside,"The highlights of today-- every single moment of this entire day. I got to see a piece of a day in the life with him when it comes to his charity work. It speaks volumes about his character and what he wants to do in this world. After today, I don't care what his age is. I think Colton would be a pretty darn good dad.",3
+503,dialogue,,elyse,colton,That was a good last surprise.,3
+504,dialogue,,colton,elyse,I got one last thing for us.,3
+505,dialogue,,elyse,colton,I thought the surprises were done.,3
+506,dialogue,,colton,elyse,"Oh, no, no, no, I'm full of surprises.",3
+507,sound,soft music,,,,3
+508,testimony,,elyse,aside,"Going into today, I was worried about our age difference, thinking we were probably on very different pages, and that's an assumption that he has today proved me wrong in.",3
+509,exclamation,,elyse,self,Holy cow.,3
+510,dialogue,,colton,elyse,Isn't this gorgeous?,3
+511,testimony,,elyse,aside,"Wow. And now, tonight, I am hoping that we're on the same page... Thank you, thank you, thank you. And that Colton is interested in seeing what could be... going forward.",3
+512,dialogue,,colton,elyse,I had so much fun today.,3
+513,dialogue,,elyse,colton,Me too.,3
+514,dialogue,,colton,elyse,And you absolutely were amazing.,3
+515,dialogue,,elyse,colton,"Coming into this, it was a bit apprehensive for me, that maybe we wouldn't be on the same page, and so today, seeing you with all the kids and that your focus was very unlike some other men your age, to be a part of that was incredible.",3
+516,dialogue,,colton,elyse,"Yeah. Well, I'm so glad you were by my side for today.",3
+517,dialogue,,elyse,colton,Thank you for having me.,3
+518,dialogue,,colton,elyse,Yeah.,3
+519,dialogue,,elyse,colton,Good day.,3
+520,dialogue,,colton,elyse,"Life is, obviously, all about experiences, and it's a lot about what you go through. You're very strong‐minded and...",3
+521,dialogue,laughs,elyse,colton,Just a titch.,3
+522,dialogue,,colton,elyse,"That's what's so attractive about you, too, is, you have this confidence and this independence, and I wanted to know, like, why... you are the way you are.",3
+523,dialogue,,elyse,colton,"I had something that really shifted my priorities in life. My sister was a labor and delivery nurse, and she was married, and she got pregnant with her second, and unfortunately she started feeling a bit off and found out that she had this tumor that is cancerous, and with her being pregnant at the time and obviously putting that baby first, there wasn't a whole lot the doctors wanted to do besides get that baby as close to term as possible.",3
+524,dialogue,,colton,colton,Yeah,3
+525,dialogue,,elyse,colton,"I mean, it was just incredible what she put her body through to bring that baby into our lives. But... she passed. And it was just... awful. Like, awful.",3
+526,dialogue,,colton,elyse,I can't even imagine what you had to go through or anybody who has to lose somebody that they love and care about.,3
+527,dialogue,,elyse,colton,It changes everything.,3
+528,dialogue,,colton,elyse,Yeah.,3
+529,dialogue,,elyse,colton,"So... tough, but now we have a new little member of our family, and now we have this amazing charity in her honor, Sarah's Closet...",3
+530,dialogue,,colton,elyse,Unbelievable.,3
+531,dialogue,,elyse,colton,"And we'll give gifts to all the little newborns. It kind of turned, like, darkness into goodness, in some way.",3
+532,dialogue,,colton,elyse,"Yeah. It all makes sense now. You know, watching you with the kids, I was like, ""All right, she has this natural motherly instinct,"" and, like, hearing that and that story, you're unreal.",3
+533,testimony,,elyse,aside,"I think our conversation tonight was, you know, difficult. It's not easy for me to open up about stuff that's personal with my family. But he was an incredible listener tonight. I never expected that, so quickly, you can be this vulnerable with somebody and open up to the potential of what could be down the line.",3
+534,sound,knock at door,,,,3
+535,exclamation,gasps,???,self,,3
+536,dialogue,,kirpa,women,That was it. I'm gonna go get it.,3
+537,testimony,,caitlin,aside,"I'm really hoping I'm on the card. I'm obviously here to find love, so I personally don't want to be in a position where I'm at the cocktail party, like, scrambling to try and make some sort of connection with him before the rose ceremony.",3
+538,sound,dramatic music,,,,3
+539,dialogue,,caitlin,women,Tayshia. Nina. Catherine. Sydney. Onyeka.,3
+540,exclamation,,onyeka,self,Hoo! Ah!,3
+541,dialogue,,caitlin,women,Cassie. Nicole. Caitlin.,3
+542,dialogue,,caitlin,women,"Oh, thank God.",3
+543,dialogue,,caitlin,women,"""For every strong man, there is an even stronger woman. Colton.""",3
+544,testimony,,hannahg,aside,That sucks. I didn't get a date this week. So the pressure's definitely on. I hope that I can have a good conversation with him at the rose ceremony. And that's all I can hope for.,3
+545,dialogue,,elyse,colton,"I don't think our lives have been necessarily similar to get us here, but I guess that doesn't really matter.",3
+546,dialogue,,colton,elyse,Hearing you sort of with the glass half full and hearing you talk about your family is very special. And how strong you are as a person really shows.,3
+547,dialogue,,elyse,colton,Thank you.,3
+548,sound,soft music,,,,3
+549,dialogue,,colton,elyse,"So opening up tonight about your sister I know had to be difficult. But it gave me so much more of an insight of why you are the way you are, and that is incredible. I want you to know that I'm super excited for our future. So, Elyse, will you accept this rose?",3
+550,dialogue,,elyse,colton,Yes. Thank you.,3
+551,dialogue,,colton,elyse,Yeah.,3
+552,dialogue,,elyse,colton,Best day. Good day to best day.,3
+553,dialogue,,colton,elyse,You think we're done? I do have one more surprise for you.,3
+554,dialogue,,elyse,colton,No.,3
+555,dialogue,,colton,elyse,Come on.,3
+556,dialogue,laughs,elyse,colton,Okay.,3
+557,testimony,,elyse,aside,"As far as first dates go, it's been amazing. And then getting the rose, it literally can't get better than this.",3
+558,sound,upbeat music,,,,3
+559,sound,cheers and applause,,,,3
+560,testimony,,elyse,aside,And then it just kept getting better.,3
+561,sound,lyrics,,,,3
+562,testimony,,colton,aside,It was an amazing date. To have Tenille Arts performing just for us was incredible.,3
+563,sound,lyrics,,,,3
+564,testimony,,colton,aside,"This moment with Elyse is one of the best moments that I've had so far, and I want to hold on to it forever.",3
+565,testimony,,elyse,aside,"This has been epic. By far one of the best days I've ever had. We have a great connection, and there is a potential for a future there. I really love that I am falling in love.",3
+566,sound,cheers and applause,,,,3
+567,sound,train bell ringing,,,,3
+568,sound,train horn blows,,,,3
+569,sound,radical rock music,,,,3
+570,testimony,,colton,aside,"Today, I found it appropriate to bring the guns out. You don't have to be the fittest person to‐‐ to be my wife, but I'm gonna need somebody who can be there for me. I'm gonna need somebody who can be my rock. So I have a really, really fun date planned for them, and I can't wait to get out there a little bit.",3
+571,exclamation,,women,self,Strong women.,3
+572,dialogue,,???,women,What if we wrestled?,3
+573,exclamation,,women,self,"No, eww.",3
+574,sound,laughter,,,,3
+575,testimony,,nicole,aside,"The date card said, ""Every strong man needs an even stronger woman."" It's kind of intimidating. I'm not, like, the most athletic of the bunch. No, but I walk my dog. Wait, look at‐‐",3
+576,exclamation,"all squealing, chattering",women,self,"Oh, my God! He's shirtless!",3
+577,testimony,,caitlin,aside,"We pull up and Colton is waiting for us topless, which was a really nice sight.",3
+578,testimony,,onyeka,aside,"Oh, my God! It was like, ""Hello. I will be the first one to greet you.""",3
+579,dialogue,,colton,onyeka,How are you doing?,3
+580,dialogue,,onyeka,colton,Hello!,3
+581,dialogue,,colton,onyeka,Hey. How are you?,3
+582,dialogue,,onyeka,colton,"Good, how are you?",3
+583,dialogue,,???,colton,You look so good!,3
+584,dialogue,,colton,women,Thank you. You guys all look gorgeous.,3
+585,dialogue,laughs,nicole,colton,"Wow. You run out of clothes, or... Laundry day?",3
+586,dialogue,,colton,women,"Uh, so growing up, and being an athlete, I spent a lot of time working out and around fitness, so I thought we'd get a little sweaty. I invited two of my friends to help us out, so let's get in there and have some fun. Let's go.",3
+587,exclamation,,women,self,Let's do it.,3
+588,dialogue,,rebecca,terry,"All right, T.",3
+589,dialogue,grunts,terry,rebecca,,3
+590,dialogue,,rebecca,terry,"You got this. Honey, honey.",3
+591,exclamation,,women,self,Oh!,3
+592,dialogue,,rebecca,women,"Hey, ladies!",3
+593,exclamation,,women,self,"Oh, my God!",3
+594,dialogue,,rebecca,women,How you doing?,3
+595,testimony,,onyeka,aside,"We walk in and it was Terry and Rebecca Crews, and I was, like, freaking out. ""White Chicks"" is one of my favorite movies.",3
+596,dialogue,,terry,women,"Ladies, we have been married... 29 years.",3
+597,dialogue,,women,terry,No way.,3
+598,dialogue,,terry,women,"Let me tell you‐‐ yeah, and this woman is the glue that has kept our family together for all these years.",3
+599,dialogue,,rebecca,women,"Ladies, marriage is hard. Life is hard, and we're here today to help Colton find his strong woman.",3
+600,dialogue,,terry,rebecca,That's right.,3
+601,dialogue,,rebecca,women,Are y'all ready?,3
+602,exclamation,,women,self,Yes! We're ready to do it?,3
+603,dialogue,,terry,women,"Okay, let's go! Let's make it happen! Warm it up, warm it up. We need strength. Push it. Come on, Sydney. There you go.",3
+604,testimony,,sydney,aside,"This is what I love to do. I'm a dancer, a fitness instructor, so this is right in my element.",3
+605,dialogue,,colton,catherine,"Yeah, so you're gonna come up and get real close to it.",3
+606,dialogue,,catherine,colton,Mm‐hmm.,3
+607,dialogue,,colton,catherine,And then let me hear that knee.,3
+608,dialogue,,catherine,colton,All right.,3
+609,testimony,,catherine,aside,I did martial arts for almost ten years. I'm a black belt in taekwondo and karate.,3
+610,exclamation,rapid breathing,catherine,self,Ah!,3
+611,dialogue,,colton,catherine,Yes!,3
+612,testimony,,catherine,aside,"But there are, like, less‐athletic women here today on this group date.",3
+613,dialogue,,terry,nicole,"Go ahead and do a little jump if you have to. Be careful. There you go. Hold her feet. And give it all you got. All you got! Oh! Okay, okay, that's good! That's good!",3
+614,testimony,goofy exclamation,nicole,aside,"I literally felt like I was, like... Napoleon Dynamite up there. Like... Like, you know, it's kind of embarrassing.",3
+615,dialogue,,sydney,colton,"Hamstrings, it's like my tightest area.",3
+616,dialogue,,colton,sydney,"So there? Oh, more? Geez.",3
+617,dialogue,,sydney,colton,I can take it.,3
+618,dialogue,,colton,sydney,"Oh, yeah, see, that doesn't happen when I do my hamstrings.",3
+619,dialogue,,sydney,colton,But it feels so good right there.,3
+620,dialogue,,colton,sydney,Yeah.,3
+621,testimony,,nina,aside,There are some girls that will do anything to get his attention...,3
+622,dialogue,,colton,sydney,Look at‐‐ look at this flexibility!,3
+623,testimony,,nina,aside,"When Sydney snuck that in, I was not expecting that.",3
+624,dialogue,,colton,sydney,My hip would be out of my socket.,3
+625,dialogue,,sydney,colton,Dislocated.,3
+626,dialogue,,colton,sydney,I didn't know feet do that. Is that normal?,3
+627,testimony,,cassie,aside,"Sydney's‐‐ she's making stretching look like dirty dancing, and Colton is not a stretching virgin anymore, that's for sure.",3
+628,dialogue,,terry,women,So we have one more test. I'll see you outside.,3
+629,sound,all cheering,,,,3
+630,exclamation,,onyeka,self,"Oh, gosh, I'm scared.",3
+631,testimony,,sydney,aside,"I feel strongly about getting today's rose, so I think the other girls should be nervous, if I were them.",3
+632,dialogue,,colton,women,"Come on, let's go. A little‐‐a little jog.",3
+633,exclamation,,women,self,"Oh, my gosh.",3
+634,sound,cheers and applause,,,,3
+635,dialogue,,terry,women,"Come on over here, ladies! Come on over here!",3
+636,exclamation,,women,self,"Oh, my God!",3
+637,dialogue,,rebecca,women,"Welcome, ladies, to ""The Bachelor""... Strongest Woman... Competition!",3
+638,dialogue,,terry,women,Yes!,3
+639,dialogue,,rebecca,women,We have a series of events for you today...,3
+640,dialogue,,terry,women,And you're gonna have to do your best. You know why? Because only three of you are going to make it to the final event.,3
+641,dialogue,,rebecca,women,"And when the dust settles, we are going to see... who will be ""Bachelor's""... Strongest Woman!",3
+642,dialogue,,terry,women,Are you ready?,3
+643,dialogue,,rebecca,women,Are you ready?,3
+644,sound,dramatic music,,,,3
+645,dialogue,,chris,crowd,"Hello, sports fans. Welcome to ""The Bachelor's"" Strongest Woman Competition. By my side calling the action today-- the legend, the Hall‐of‐Famer himself, Fred Willard. Fred, it's good to have you again.",3
+646,dialogue,,fred,chris,"Uh, thanks. It's great to be here, Chris.",3
+647,dialogue,,terry,women,"Okay, we're gonna start right now with Onyeka!",3
+648,dialogue,,women,onyeka,"Get it, girl! Come on, girl.",3
+649,dialogue,,chris,fred,"Fred, they will push a 100‐pound wedding cake down the aisle.",3
+650,dialogue,,fred,chris,"Oh, my gosh, my back is hurting just watching this.",3
+651,dialogue,,rebecca,onyeka,Get set... go!,3
+652,dialogue,,women,onyeka,"There we go! That's it, Onyeka! Yeah!",3
+653,testimony,,onyeka,aside,"I ran track in high school, and if Colton's looking for a physically, mentally, emotionally strong woman, that's me.",3
+654,dialogue,,terry,nicole,Yeah! Good job!,3
+655,dialogue,,chris,fred,"Fred, she crushed it. And just look at the crowd on their feet going nuts!",3
+656,dialogue,,fred,chris,Yep.,3
+657,dialogue,,terry,crowd,Nicole!,3
+658,exclamation,,nicole,self,Yeah!,3
+659,testimony,cheering,nicole,aside,"I'm super nervous. I'm kind of intimidated. So I'm gonna do whatever it takes trying to get Colton's attention to, like, look at me and notice me. Whoo!",3
+660,dialogue,"all cheering, laughing",women,nicole,All right! Whoo!,3
+661,dialogue,,terry,crowd,Get set... go!,3
+662,exclamation,laughs,nicole,self,,3
+663,exclamation,laughs,nicole,self,,3
+664,dialogue,,chris,fred,"Well, Fred, I'm glad she has the crowd on her side, because she has yet to move the sled...",3
+665,dialogue,,fred,chris,Yeah.,3
+666,dialogue,,chris,fred,An inch.,3
+667,exclamation,groaning,nicole,self,,3
+668,dialogue,,chris,fred,"In fact, I think she's moved it backwards.",3
+669,dialogue,,terry,women,Catherine!,3
+670,dialogue,,colton,catherine,"Catherine, here we go. Oh!",3
+671,dialogue,,terry,crowd,It is now time for the world's biggest engagement ring flip!,3
+672,dialogue,,sydney,colton,How much would you say that tire weighs?,3
+673,dialogue,,colton,sydney,It's over 150.,3
+674,dialogue,,terry,catherine,"Get set, flip!",3
+675,sound,dramatic rock music,,,,3
+676,exclamation,cheers and applause,women,self,"Good job, you're doing it! Let's go, Catherine! All right! Whoo!",3
+677,dialogue,,terry,sydney,"Next up, Sydney! Flip!",3
+678,sound,cheers and applause,,,,3
+679,dialogue,,women,sydney,"There you go, Sydney! Whoo!",3
+680,dialogue,,chris,fred,"Sydney, she is burning rubber down the course. She's gone full beast mode.",3
+681,dialogue,,terry,sydney,That's it! That's it!,3
+682,sound,cheering,,,,3
+683,dialogue,,chris,fred,"Now, Fred, next up is the worst idea in television and sports history-- It's the Limo Pull.",3
+684,dialogue,,terry,sydney,"Get set, go!",3
+685,sound,cheers and applause,,,,3
+686,dialogue,,women,tayshia,"There you go! Come on, Tayshia! Go, go, go! Go, Tayshia!",3
+687,dialogue,,fred,chris,Any of the women who even attempt that would be great to be on a date in case your car breaks down.,3
+688,dialogue,,women,tayshia,"Go, go! Go, Tayshia!",3
+689,testimony,,tayshia,aside,I tried really hard and I hope he sees that...,3
+690,dialogue,,colton,tayshia,"Dig in, dig in!",3
+691,testimony,,tayshia,aside,But the whole limo scene kind of slipped me up a little.,3
+692,dialogue,,colton,tayshia,Great job.,3
+693,dialogue,,tayshia,colton,There's no way anyone can do that.,3
+694,testimony,,caitlin,aside,This is nice. It's nice to be out of the house and to be with him... But I'm gonna have to do everything I can to show Colton I'm happy to be here and I want to continue being here.,3
+695,dialogue,,chris,fred,"Fred, I'm gonna give you 1000 to 1 odds that Caitlin doesn't budge this limo by herself.",3
+696,dialogue,,fred,colton,I'm not taking that bet.,3
+697,dialogue,"slowed speech, cheering",crowd,caitlin,"There's no way. Pull! Pull! Pull! Oh, my God! There you go!",3
+698,exclamation,,tayshia,self,How is that happening?,3
+699,sound,cheers and applause,,,,3
+700,exclamation,,caitlin,self,Whoo!,3
+701,dialogue,,chris,fred,"So, Fred, the final event will be the Heavy Heart Carry.",3
+702,dialogue,,terry,crowd,Our three finalists...,3
+703,dialogue,"cheering, cheering, cheers and applause",rebecca,crowd,Sydney! Catherine! Onyeka!,3
+704,testimony,,onyeka,aside,"Colton's my man, and he's my motivation to kick ass.",3
+705,dialogue,,terry,women,"You are going to run to the end of the red line and back. And then back one more time, and put that heavy heart on that pedestal!",3
+706,testimony,,sydney,aside,Final three. I'm gonna win. I've gotta win. I have to.,3
+707,dialogue,,terry,women,Are you ready?,3
+708,sound,air horn blowing,,,,3
+709,testimony,,colton,aside,"All day today, these ladies have been surprising me. Showing me what they're made of. Absolutely had a great day.",3
+710,sound,cheering,,,,3
+711,dialogue,,terry,women,Come on!,3
+712,testimony,,onyeka,aside,"I'm just thinking that whoever wins get a rose, so I book it, and that's when I realize that I'm way, way, way faster than these girls.",3
+713,dialogue,,terry,crowd,Onyeka won! Onyeka won!,3
+714,sound,cheers and applause,,,,3
+715,testimony,,onyeka,aside,"I'm ""Bachelor's"" Strongest Woman!",3
+716,dialogue,,terry,crowd,That was a fabulous job.,3
+717,testimony,,onyeka,aside,"If you're not first, you're last. Remember that.",3
+718,dialogue,,terry,crowd,You guys can take them out of here!,3
+719,sound,cheers and applause,,,,3
+720,testimony,,sydney,aside,"It sucks to lose, yeah...",3
+721,exclamation,,crowd,self,Kiss her! Kiss her! Kiss her! Kiss her!,3
+722,sound,cheering,,,,3
+723,testimony,,sydney,aside,"You don't want to see your boyfriend kissing another girl directly in front of you, but this day's just gotten started. Competitions never end and... I'm here to win Colton's heart.",3
+724,sound,cheers and applause,,,,3
+725,sound,dramatic music,,,,3
+726,dialogue,,onyeka,women,The champ is here! This is amazing.,3
+727,testimony,,onyeka,aside,"Tonight, it feels really good to be crowned ""The Bachelor's"" strongest woman. Guys, I'm pretty excited.",3
+728,testimony,,onyeka,aside,"But, like, I wish I just knew what was in Colton's head. I just don't know where his connection lies with all those other women.",3
+729,dialogue,,colton,women,"I think the best part of today was watching you guys being strong, confident women. I have a lot of strong, confident women in my life, and you guys reminded me of what I'm looking for at the end of this.",3
+730,testimony,,tayshia,aside,"There's a lot to think about in this process. There's so many girls, so many different personalities and so many feelings. And I just wanted to check in with him and just make sure he knows that I'm there for him, just because I do want the rose and I do want to continue to stay here, because I feel it.",3
+731,dialogue,,colton,tayshia,Did you have fun today?,3
+732,dialogue,,tayshia,colton,"Oh, my gosh. Today was amazing. I thought the last date was good, but today was, like‐‐",3
+733,dialogue,,colton,tayshia,You were working your butt off.,3
+734,dialogue,laughs,tayshia,colton,,3
+735,dialogue,,colton,tayshia,"It was so cool to see too, though.",3
+736,dialogue,,tayshia,colton,Yeah?,3
+737,dialogue,,colton,tayshia,Yeah. And you were really supportive of everybody.,3
+738,dialogue,,tayshia,colton,Strong women empower other women.,3
+739,dialogue,,colton,tayshia,"Yes, they do.",3
+740,dialogue,,tayshia,colton,You had a lot of strong women in your life.,3
+741,dialogue,,colton,tayshia,I do. helped shape me into who I am today. And I think that also gives me sort of the clarity to know not only do I want that. I need someone to be able to put their foot down. I do need to be called out every once in a while. I'm not perfect.,3
+742,dialogue,,tayshia,colton,Do you?,3
+743,dialogue,,colton,tayshia,I make mistakes.,3
+744,dialogue,,tayshia,colton,Do you really? No.,3
+745,dialogue,,colton,tayshia,"Yeah, so finding a strong woman is important.",3
+746,dialogue,,tayshia,colton,Just like how it's really important for me to find a strong man.,3
+747,sound,tender music,,,,3
+748,dialogue,,caitlin,women,"Tonight is important because I haven't had a lot of time I felt like I was kind of falling behind, and I'm really excited to be able to have some sort of opportunity to get to chat with him a little bit. And I mean, there's a rose, and then tomorrow is a rose ceremony, so I'm sure we're all feeling a little bit of pressure.",3
+749,dialogue,,catherine,women,"I don't really feel pressure. I don't feel, like, pressured. I feel like if, like, it's gonna happen, it's gonna happen, and, like, you can't force a connection.",3
+750,dialogue,,caitlin,catherine,"Maybe you're not feeling pressure, though, because you've had opportunity, and I haven't.",3
+751,dialogue,,nina,women,"Yeah, I mean, you could just tell, like, the energy. Like, I think that people are feeling a bit more pressure because we're realizing that you could go home at any point during this.",3
+752,dialogue,,nicole,colton,"I love the theme today of, like, a strong woman. That, like, resonated with me a lot because, like, for me, like, my grandma, like‐‐ I don't know if you know, but, like, I'm Cuban. I'm from Miami, but, like, my family‐‐ my grandma fled Cuba. Like, she was, like, the independent woman who was like, ""You know what? We're leaving Cuba."" So I just think, like, this challenge came so full circle for me.",3
+753,dialogue,,colton,nicole,"Yeah. I thought today also was special to have you out there, because I do know that you are already a mentally strong, independent woman.",3
+754,dialogue,,nicole,colton,"It's true. I am here, like, for, I would hope, all the right reasons. I just hope you know that.",3
+755,dialogue,,colton,nicole,I could tell how much you care.,3
+756,dialogue,,nicole,colton,Yeah.,3
+757,dialogue,,colton,nicole,And that's special.,3
+758,dialogue,,nicole,colton,I really do.,3
+759,dialogue,,colton,nicole,Yeah.,3
+760,dialogue,laughs,nicole,colton,,3
+761,testimony,,colton,aside,"Tonight is going really, really well. I feel so hopeful for the connections that I'm making.",3
+762,dialogue,giggles,nicole,colton,"Gracias, papi.",3
+763,dialogue,,colton,nicole,"""Gracias, papi.""",3
+764,dialogue,laughs,nicole,colton,"Thanks, papi.",3
+765,testimony,,colton,aside,"Nicole is a sweetheart. She is somebody that is so real, so authentic, and so genuine. I just get excited knowing that I'm gonna be able to sit down with her. But at the same time, I've been so excited about a lot of different connections.",3
+766,dialogue,,colton,onyeka,"I figured, since you won...",3
+767,dialogue,,onyeka,colton,"Oh, my goodness.",3
+768,dialogue,,colton,onyeka,You should have a bite of the wedding cake.,3
+769,dialogue,,onyeka,colton,"Oh, my gosh! Yes!",3
+770,testimony,,colton,aside,"I know you had to push the wedding cake sled. Onyeka has this energy, this spark, this natural connection that doesn't ever feel forced.",3
+771,dialogue,,onyeka,colton,"It's good. Oh, I'm sorry!",3
+772,testimony,,colton,aside,"She's somebody that I feed off. I mean, she has contagious energy. I'm really excited to get to know you.",3
+773,dialogue,laughs,cassie,colton,,3
+774,dialogue,,colton,cassie,You're cute. You're quirky. You're awkward.,3
+775,dialogue,,cassie,colton,Am I really that awkward?,3
+776,dialogue,,colton,cassie,But I am too. I am too. So I'll self‐admit that.,3
+777,dialogue,,cassie,colton,"No, you know why I think I'm awkward? I think it's 'cause I like you. I'm not usually that awkward.",3
+778,dialogue,laughs,colton,cassie,,3
+779,testimony,,colton,aside,"When I'm around Cassie, I get butterflies in my stomach. She's cute and sexy at the same time. We have this natural chemistry. Every time I'm with her, I feel more comfortable. I feel like I can be myself... and that's what I'm looking for.",3
+780,dialogue,,caitlin,colton,How are you?,3
+781,dialogue,,colton,caitlin,"Good, how are you? Hopefully, I'll feel this way tonight in all of my conversations.",3
+782,dialogue,,caitlin,colton,How was your day?,3
+783,dialogue,,colton,caitlin,It was unbelievable.,3
+784,testimony,,colton,aside,"With Caitlin, I mean, right now, our relationship, romantically, is behind the others, but I would say I'm hopeful that we can get there. Did you have fun?",3
+785,dialogue,,caitlin,colton,"I had so much fun. I feel like I've kind of, like, been slipping behind a little bit because we got sent home on the last group date, but yeah, today was great. And I'm, like, super happy that I'm here.",3
+786,dialogue,,colton,caitlin,I'm happy that you're here too.,3
+787,dialogue,,caitlin,colton,Thanks.,3
+788,dialogue,,colton,caitlin,"But you know, I still want to continue to get to know you on a little bit of a deeper level.",3
+789,dialogue,,caitlin,colton,I agree.,3
+790,dialogue,,colton,caitlin,And really figure out‐‐,3
+791,dialogue,,caitlin,colton,Um...,3
+792,dialogue,,colton,caitlin,What makes you you.,3
+793,dialogue,,caitlin,colton,"Yeah, I feel like a lot of girls have been progressing in that sense, and... I haven't‐‐ I haven't had anything, like, happen in my life that, like, is standing out for me right now that, like, I want to share with you, other than the fact that, like, today was great.",3
+794,dialogue,,cassie,women,"I don't think, coming in, I realized how, like...",3
+795,dialogue,,tayshia,women,"Quickly you were gonna, like, fall for things?",3
+796,dialogue,,cassie,women,Yeah.,3
+797,dialogue,,nicole,women,"I mean, it feels like it's all or nothing tonight. It's definitely about time. It's about that connection.",3
+798,dialogue,,nina,women,"Yeah, that's what it is.",3
+799,dialogue,,nicole,women,"Making the most out of it. If you're making the most out of those minutes, that's gonna change everything for you and Colton.",3
+800,dialogue,,colton,caitlin,"Right now, in your life, what are you looking for that you would say, like, ""Hey, I'm ready right now, and this is why""?",3
+801,dialogue,,caitlin,colton,"I want somebody that's happy to go out and have a really ridiculous, silly evening.",3
+802,dialogue,,colton,caitlin,Yeah.,3
+803,dialogue,,caitlin,colton,"I‐I don't know. I'm happy to, you know, open up to you about that.",3
+804,dialogue,,nina,women,I do know that some girls are better along and then have to play a little bit of catch‐up.,3
+805,dialogue,,onyeka,women,"Not every person here is gonna make a match with Colton, and he knows he wants a wife. He knows what qualities he's looking for in a wife. So he's just waiting to meet someone that he connects with.",3
+806,dialogue,,caitlin,colton,"Obviously, this experience is not for everybody, but‐‐",3
+807,dialogue,,colton,caitlin,It can be difficult at times. It is definitely‐‐,3
+808,dialogue,,caitlin,colton,Mm‐hmm.,3
+809,dialogue,,colton,caitlin,Different. And I do know the challenges that come along with it.,3
+810,dialogue,,caitlin,colton,Yeah.,3
+811,dialogue,,colton,caitlin,"And you do get in your head a little bit. You overthink some things, and you start comparing yourself, naturally, and I don't want you to do that.",3
+812,dialogue,,caitlin,colton,"No, for sure. You learn a lot about yourself in this experience. But I'm not really sure what to, like, open up about other than the fact that, like, my life has been, like, good.",3
+813,dialogue,,colton,caitlin,Yeah.,3
+814,testimony,,colton,aside,"You know, tonight, I'm looking for developing these relationships on a deeper level. And as much as I wanted, tonight, to grow and progress my relationship with Caitlin... I just didn't feel it.",3
+815,dialogue,,colton,caitlin,What's an intimate night with your family like? You talking board games or are we talking movies?,3
+816,dialogue,,caitlin,colton,Maybe intimate was the wrong word.,3
+817,testimony,sighs,colton,aside,"I was gonna say, I don't know where we're going with this, but... I just didn't feel the chemistry. I didn't feel the sparks. I think tonight, just sitting down with her and... The conversation wasn't the best.",3
+818,dialogue,sighs,caitlin,colton,,3
+819,dialogue,,colton,caitlin,"Oh, shoot.",3
+820,testimony,,colton,aside,"But one thing I know is, I have relationships that are further along, and with Caitlin, I just didn't feel it.",3
+821,dialogue,,colton,caitlin,So... I was really looking forward to getting to talk to you tonight.,3
+822,dialogue,,caitlin,colton,Yes.,3
+823,dialogue,,colton,caitlin,"And tonight, you know, I was hoping would... give me the clarity to sort of see exactly where our relationship could go.",3
+824,dialogue,,caitlin,colton,Mm‐hmm.,3
+825,dialogue,,colton,caitlin,And if I'm being completely honest... Tonight... I just didn't feel like that spark was there.,3
+826,sound,melancholy music,,,,3
+827,dialogue,,colton,caitlin,I'm sorry. You are somebody who deserves the best. But I just don't think that... you are for me. So I would like to walk you out.,3
+828,dialogue,,caitlin,colton,"I don't know if I want to hold your hand, Colton.",3
+829,dialogue,,???,women,"Wait, what just happened?",3
+830,dialogue,,???,women,I don't know. But I don't feel good about it. This just makes me feel sick.,3
+831,dialogue,,???,women,"I don't want to talk about it. Like, she's way in front of him.",3
+832,dialogue,,???,women,Do you guys think he's sending her home?,3
+833,exclamation,,???,self,"Oh, God.",3
+834,testimony,,colton,aside,"Breaking up with Caitlin, I'm struggling with it. She is incredible. I feel bad. I feel terrible for doing this to somebody. I mean, I've been on the other side. I know what you give up. I know the sacrifices you make. And I know it's not a good feeling going home. I just hope that I'm not making a mistake.",3
+835,testimony,,caitlin,aside,"I honestly didn't expect for me to be in this position. I'm confused because, like, he got rid of somebody that was here and that was real and that wanted to be here for him when there are other women in the house who are not.",3
+836,dialogue,,onyeka,colton,"Hi, Colton.",3
+837,dialogue,,???,colton,Do you want to squeeze in?,3
+838,dialogue,,colton,women,"Yeah, I'm gonna squeeze in.",3
+839,testimony,bleep,caitlin,aside,"It's just hard. It's really hard. I feel like there are so many other girls who, like, should have been walked out that door before me. I feel like throwing me away this early was a really big mistake.",3
+840,dialogue,,colton,nicole,Nicole... will you accept this rose?,3
+841,dialogue,,nicole,colton,"Yes. Yes, I will.",3
+842,testimony,,caitlin,aside,"He really needs to think about who's here for the right reasons. Life goes on. Maybe he'll regret his decision eventually and think, ""Oh, Caitlin's still back home. Maybe I should bring her back.""",3
+843,sound,chimes tinkling,,,,3
+844,sound,indistinct chatter,,,,3
+845,dialogue,,bri,women,Why did Caitlin‐‐,3
+846,dialogue,,kirpa,bri,I don't know. Apparently he wasn't vibing with her.,3
+847,exclamation,,bri,self,What?,3
+848,testimony,,bri,aside,"I was really shocked to hear that Caitlin went home. It's really unexpected, but at the same time I feel like I can appreciate and respect Colton more because he knows what he wants.",3
+849,dialogue,,sydney,women,"He said that he just didn't see her as his wife, and that he didn't think that he could get there with her, so he sent her home.",3
+850,testimony,,onyeka,aside,"With Colton sending Caitlin home, it's scary because it means any one of us could go home at any time. So all we have a lot of pressure going to the cocktail party.",3
+851,dialogue,,katie,women,"That makes me, like, nervous.",3
+852,dialogue,,heather,women,It's scary.,3
+853,dialogue,,katie,women,It's really scaring me.,3
+854,dialogue,,women,chris,Good morning. Hello! Hi.,3
+855,dialogue,,chris,women,"Hey, everybody.",3
+856,dialogue,,women,chris,"Hi, Chris.",3
+857,dialogue,,chris,women,So you all had fun last night‐‐ until Caitlin goes home. Was that a surprise?,3
+858,dialogue,,women,chris,Yes. 100% shocking.,3
+859,dialogue,,chris,women,"There's always that moment where things change from, okay, the superficial having fun to ""I want this to be serious."" And in the vein of getting more serious, uh, I talked to Colton. Colton knows what he wants to do... And that means there will be no cocktail party tonight.",3
+860,sound,dramatic musical flair,,,,3
+861,dialogue,,chris,women,The good news-- there is gonna be a pool party.,3
+862,exclamation,,women,self,"What? Oh, my God!",3
+863,dialogue,all cheering,chris,women,You're gonna hang out all day. He's gonna have his shirt off. Y'all have fun. I'll see you later on this afternoon. See you guys.,3
+864,dialogue,,women,chris,"See ya, Chris!",3
+865,dialogue,,demi,self,I gotta go get ready.,3
+866,testimony,,demi,aside,"This pool party is so much better than a cocktail party for me because I get to be sexy Demi, I get to have some fun in the sun with my man.",3
+867,sound,all chattering,,,,3
+868,exclamation,laughing,women,self,,3
+869,testimony,,hannahb,aside,We're gonna have a pool party. I think it'll be fun.,3
+870,sound,upbeat music,,,,3
+871,testimony,,hannahb,aside,"I'm excited to see Colton, but it's super important that I get time to talk to him today...",3
+872,dialogue,,colton,women,How are we doing? How are you doing?,3
+873,dialogue,,women,colton,Good.,3
+874,testimony,,hannahb,aside,"Because last time we talked on the group date, it was a total train wreck. So I'm hoping we can clear the air and get our relationship back to a good place.",3
+875,dialogue,,colton,women,How are we doing?,3
+876,dialogue,,women,colton,Good. How are you?,3
+877,dialogue,,colton,women,"This week has been a little bit more emotional than what I thought it was gonna be. Um, I had some conversations that made me, you know, sort of question my instincts. And... I hope that my heart doesn't lead me in the wrong direction. I'm also hoping that I get some more clarity on that today. So canceling the cocktail party in hopes to lighten the mood a little bit.",3
+878,dialogue,,women,colton,Yeah!,3
+879,dialogue,,colton,women,Let's have some fun.,3
+880,exclamation,,women,self,Yeah! Great. Whoo!,3
+881,dialogue,,demi,colton,Take your shirt off.,3
+882,sound,girls giggling,,,,3
+883,dialogue,,colton,demi,I appreciate it.,3
+884,sound,cheering,,,,3
+885,testimony,gasps,heather,aside,"Oh, he looks so good with his shirt off. It's like... Like, prime.",3
+886,dialogue,,demi,colton,"Now you need some oil. Mm, all sweaty. This looks really sexier, though. Now you look good.",3
+887,sound,upbeat music,,,,3
+888,dialogue,,colton,women,"Are we getting in the pool, or what?",3
+889,exclamation,"girls squealing, girls chattering",women,self,"Oh, yeah. Yeah.",3
+890,testimony,laughs,onyeka,aside,"Two days in a row, Colton no shirt on. I'm like, ""Sign me up."" I'm like, ""Honestly, he doesn't even need to wear his shirt to the rose ceremony. I will be A‐OK.""",3
+891,exclamation,"girls chattering, squealing, screams",women,self,,3
+892,testimony,,hannahg,aside,"I'm excited for Colton to be able to chill, because I know there's just been a few, like, feuds in the house. So I'm just hoping that the drama and tension just doesn't get in the way of me being able to hopefully talk to Colton, because I didn't get a date this week. You look so handsome.",3
+893,dialogue,,colton,hannahg,You look great.,3
+894,dialogue,,hannahg,colton,"Oh, gosh. Well, thank you.",3
+895,dialogue,,colton,hannahg,I missed you.,3
+896,dialogue,,hannahg,colton,I've been getting some sun by the pool every day and everything. You have to know I was stressing a little bit.,3
+897,dialogue,,colton,hannahg,"No, but I‐‐I want you to know, like, it was‐‐ it was nothing... other than‐‐ I'm very confident in what we have.",3
+898,dialogue,,hannahg,colton,I get it.,3
+899,dialogue,,colton,hannahg,"And I know our chemistry, and I know how I feel when I'm around you. And that is for sure, so...",3
+900,dialogue,,hannahg,colton,"That makes me really, really happy. And then to get to hang out with you, like, in an environment like this, like‐‐",3
+901,dialogue,,colton,hannahg,That's the whole point of today too.,3
+902,dialogue,,hannahg,colton,Yeah.,3
+903,dialogue,,colton,hannahg,So I'm glad you pulled me first.,3
+904,sound,seductive music,,,,3
+905,dialogue,,colton,hannahg,I like you.,3
+906,sound,patting,,,,3
+907,exclamation,,women,self,"Yeah! Whoo! Yeah, Katie!",3
+908,sound,"laughter, chatter",,,,3
+909,dialogue,,hannahb,heather,Have you talked to him?,3
+910,dialogue,,heather,hannahb,No. Have you?,3
+911,dialogue,,hannahb,heather,"No, but I'm ready.",3
+912,dialogue,,heather,hannahb,So ready.,3
+913,dialogue,,hannahb,heather,Yeah.,3
+914,dialogue,,heather,hannahb,Are you gonna tell him the truth about the situation with Caelynn?,3
+915,dialogue,,hannahb,heather,"I don't want to talk about her. There's been, like, a lot of... petty... girl‐drama things. It's been a rough few days, but I'm done with Caelynn.",3
+916,dialogue,,hannahb,heather,"This is, like‐‐",3
+917,dialogue,,heather,hannahb,"No, I'm not doing this anymore. Well, it's like, you want to progress with your relationship.",3
+918,dialogue,,hannahb,heather,Yeah.,3
+919,dialogue,,heather,hannahb,You don't want to continue to dwell on the same thing.,3
+920,dialogue,,hannahb,heather,"And then we can just, like, have fun, 'cause a rela‐‐ a relationship's supposed to be fun, and it has not been fun this week.",3
+921,dialogue,,heather,hannahb,No.,3
+922,dialogue,,hannahb,heather,At all.,3
+923,dialogue,,heather,hannahb,I agree. I totally agree.,3
+924,sound,melancholy music,,,,3
+925,dialogue,laughs,caelynn,colton,,3
+926,dialogue,,colton,caelynn,What do you drink?,3
+927,dialogue,,caelynn,colton,A jalapeno margarita.,3
+928,dialogue,laughs,hannahb,heather,Just kill me.,3
+929,dialogue,,heather,hannahb,"Who knows what she's talking about, but she's not saying she loves you. My fear is that she's gonna go talk crap about you, and then he's gonna believe that.",3
+930,dialogue,,hannahb,heather,"If‐‐oh, if Caelynn's talking crap about me, she'd better beware. There is a beautiful monster inside of me, and... today I'm gonna have to let it out.",3
+931,dialogue,,heather,hannahb,"Okay, what?",3
+932,dialogue,,hannahb,heather,"Mm‐hmm. I say there's a tank of rage. Well, right now it is full.",3
+933,dialogue,,heather,hannahb,You're full?,3
+934,dialogue,,hannahb,heather,I'm full. And the beast is about to... come out.,3
+935,dialogue,,heather,hannahb,Is it?,3
+936,dialogue,roaring,hannahb,heather,,3
+937,sound,girls chattering,,,,3
+938,sound,melancholy music,,,,3
+939,dialogue,,onyeka,women,Do you know where Colton is?,3
+940,dialogue,,nina,women,Who's talking to him right now?,3
+941,dialogue,,elyse,women,I have no idea.,3
+942,dialogue,,colton,caelynn,How are you?,3
+943,dialogue,,caelynn,colton,I'm good. How are you doing?,3
+944,dialogue,,colton,caelynn,"I'm good, I'm good.",3
+945,dialogue,,heather,hannahb,"Right now, she's gonna talk crap about you and then he's gonna think you are the one to blame. And then he thinks that you're the problem.",3
+946,dialogue,,hannahb,heather,I'm so fed up.,3
+947,dialogue,laughs,caelynn,colton,"Okay, let's just get into it.",3
+948,dialogue,,colton,caelynn,What are we getting into?,3
+949,dialogue,,caelynn,colton,"Um, I want to be honest. So Hannah and I do have, like, a past, and it's not like an easy‐breezy past by any means. Um, I'm legit shaking. I don't like this.",3
+950,dialogue,,colton,caelynn,Yeah.,3
+951,dialogue,bleep,caelynn,colton,"Um, we were really close and then I noticed, like, when I was, like... getting more attention in terms of, like, Miss USA stuff, is, like, when she started to get in her head. Because I was first runner‐up at Miss USA. But she didn't place and it's like in that moment she started to talk and started to, like, do things. And it was like manipulation, deceitfulness, and talking... not kind things about me. It's such a pattern of behavior, and I've noticed it in the house too‐‐ where she kind of spirals whenever I have, like, the slightest bit of success, which I hate. Because, like, I love to be happy, and, like, have, like, happy people in my life, and whenever I feel like someone toxic is coming into my life, that's when I kind of fall back slightly, you know?",3
+952,dialogue,,colton,caelynn,Yeah.,3
+953,dialogue,,caelynn,colton,"I never want to, like, throw her under the bus or, like, do anything like that, but I wanted to make sure that you know, like, I want to be here for you. I want to focus on a relationship and I don't want‐‐ I just wanted to be honest.",3
+954,dialogue,,colton,caelynn,"I mean, I‐‐I appreciate it.",3
+955,dialogue,,caelynn,colton,It's awkward to me.,3
+956,dialogue,,colton,caelynn,"I think while I try to stay focused on our relationship, I mean... you saying those things does concern me because I did have a one‐on‐one where I did get to know her, and I didn't see that, so...",3
+957,dialogue,,caelynn,colton,"Yeah, yeah.",3
+958,dialogue,,colton,caelynn,"Like, I‐‐I'm just‐‐ I'm really trying to process everything right now. and I think that's where it's, like, frustrating for me.",3
+959,dialogue,,caelynn,colton,Yeah.,3
+960,dialogue,,colton,caelynn,Because I'm trying to understand...,3
+961,dialogue,,caelynn,colton,I'm sorry.,3
+962,dialogue,,colton,caelynn,I'm trying to understand it.,3
+963,dialogue,,caelynn,colton,I know. Yeah.,3
+964,testimony,,colton,aside,"I like Hannah a lot, especially after our one‐on‐one and the time that we spent, but Caelynn tells me that Hannah is manipulative, toxic, and all of those things are very concerning. Very powerful words. I mean, I feel caught off‐guard, and it makes me sick to my stomach thinking about it. So I do want to get some answers. I do want to get some clarity, and I do want to know that I can trust my instincts.",3
+965,dialogue,,hannahb,colton,Hello.,3
+966,dialogue,,colton,hannahb,"Hey, how are you?",3
+967,dialogue,,hannahb,colton,I'm good.,3
+968,dialogue,,colton,heather,"Heather, do you mind if I talk to Hannah here?",3
+969,dialogue,,heather,colton,"Yeah, take her away.",3
+970,dialogue,laughs,colton,heather,All right.,3
+971,dialogue,,hannahb,colton,Do you want to sit right here?,3
+972,dialogue,,colton,hannahb,"Yeah, I'll sit right here.",3
+973,dialogue,,hannahb,colton,Okay.,3
+974,dialogue,sighs,colton,hannahb,,3
+975,dialogue,,hannahb,colton,How are you?,3
+976,dialogue,,colton,hannahb,"Good, I'm good. How are you?",3
+977,dialogue,,hannahb,colton,I feel better today. The past few days have not been good.,3
+978,dialogue,,colton,hannahb,"I know, I can agree. Today I just want to hear from you. I mean, I just‐‐I wanna move past this, because...",3
+979,dialogue,,hannahb,colton,I do too.,3
+980,dialogue,,colton,hannahb,"I wanna get back to, like, where we were the night of our one‐on‐one.",3
+981,dialogue,,hannahb,colton,Okay.,3
+982,dialogue,,colton,hannahb,"But when Caelynn talked to me... your character did come into question. And there just were some alarming things, in my opinion, that were said.",3
+983,dialogue,,hannahb,colton,Okay.,3
+984,dialogue,,colton,hannahb,"The words, uh, I'm caught up on‐‐ ""manipulative,"" ""toxic,"" and ""deceitful."" Like, that is a big deal. That is something that I'm not looking for.",3
+985,dialogue,,hannahb,colton,I'm not‐‐ I'm not deceitful. I'm not manipulative. It's lies that just aren't true.,3
+986,dialogue,,colton,hannahb,"If it's not true, why would she say that?",3
+987,dialogue,,hannahb,colton,"I think because she's manipulative and fake. She can put on a show of... whatever Caelynn wants to be, whatever version she wants to be for whatever goal is in mind. She's not showing all of who she is when she's with you, and I honest‐to‐goodness, like, believe that if you picked her at the end... you would never see the full person. It makes me‐‐it, like breaks my heart for you, and that's me being... real and as honest as possible.",3
+988,dialogue,"bleep, sighs",colton,hannahb,"Yeah.  I mean, it's just a lot for me to‐‐",3
+989,dialogue,,hannahb,colton,"Absolu‐‐I mean, I know.",3
+990,dialogue,,colton,hannahb,"Like, hearing you're deceitful and you're saying she's being deceitful, I feel like I'm going round and round in circles. Like, that's why, like, for me this is so frustrating. I guess I just don't know what to believe.",3
+991,dialogue,,hannahb,colton,Just freaking trust me. I'm telling you the truth.,3
+992,sound,tense music,,,,3
+993,dialogue,bleep,colton,hannahb,"Sorry, I just need to take a moment. What the ?",3
+994,sound,dramatic music,,,,3
+995,testimony,,hannahb,aside,"This is my worst nightmare. Today I was hoping I would get our relationship back on track, but instead I had to defend my character, and that sucks. My fear is that Colton listens to her lies and he sends me home tonight.",3
+996,dialogue,bleep,hannahb,self,.,3
+997,dialogue,,colton,producer,I'm frustrated 'cause I still don't understand this.,3
+998,dialogue,,producer,colton,"Yeah, I know.",3
+999,dialogue,,colton,producer,And the last thing I wanted to do today was spend all day at the pool party talking about this.,3
+1000,dialogue,,sydney,courtney,Do you know where Colton is?,3
+1001,dialogue,,courtney,women,Colton is still talking to Hannah B.,3
+1002,dialogue,,nina,courtney,How long have they been talking for?,3
+1003,exclamation,,sydney,self,Good grief.,3
+1004,dialogue,,courtney,???,"They've been talking for, like, a very long time.",3
+1005,dialogue,,sydney,women,"Tonight is the rose ceremony, so it's not fair to everyone if she's taking up the whole... Pool party.",3
+1006,dialogue,,nina,women,I agree.,3
+1007,dialogue,,colton,???,"I like Hannah and I value her opinion, but I'm not getting clarity at all, and with Caelynn it's the same thing.",3
+1008,dialogue,,???,women,How many people haven't talked to him?,3
+1009,dialogue,,kirpa,women,I haven't.,3
+1010,dialogue,,demi,women,I haven't.,3
+1011,dialogue,,courtney,women,If I don't talk to him then I'm going home tonight. I need to talk to him right now.,3
+1012,dialogue,,colton,women,"It's two completely different stories, so I don't know what to believe. It's just confusing.",3
+1013,dialogue,,chris,colton,Hi.,3
+1014,dialogue,,colton,chris,What's up?,3
+1015,dialogue,,chris,colton,You all right?,3
+1016,dialogue,,colton,chris,Yep.,3
+1017,dialogue,,chris,colton,Why are you frustrated?,3
+1018,dialogue,,colton,chris,"I'm frustrated 'cause I like both of them. I don't know, it's just two different stories that I keep hearing.",3
+1019,dialogue,,chris,colton,And so what do you feel like you're missing?,3
+1020,dialogue,,colton,chris,"I was hoping to have some sort of clarity, and I still don't.",3
+1021,dialogue,,chris,colton,Yeah.,3
+1022,dialogue,,colton,chris,"And I feel like it's gonna affect my relationship with Hannah and Caelynn. I mean, the statement, like, Hannah said is, ""If you pick her, you're not gonna see the full her."" Like, that was a fear of mine coming into this. ""Can somebody take advantage of me?""",3
+1023,dialogue,,chris,colton,Do you think it's gonna affect your decision tonight?,3
+1024,dialogue,,colton,chris,Could. I just need to figure out what I want to do.,3
+1025,sound,suspenseful music,,,,3
+1026,sound,suspenseful music,,,,3
+1027,testimony,,katie,aside,"Tonight is the third rose ceremony. Caelynn, Nicole, and Elyse are all walking in today with a rose, but because of the Caelynn and Hannah situation I'm gonna guess half of the girls today at the pool party didn't get individual time with him, so I think that a lot of people are nervous that they might not be getting a rose.",3
+1028,dialogue,,colton,women,This week caught me by surprise. It was very trying and it was very emotional.,3
+1029,testimony,,hannahb,aside,"Colton and I, we did have the strongest connection. But now I'm worried because Caelynn told him all these crazy things about me...",3
+1030,dialogue,,colton,women,"And I want you guys to know... that if you don't receive a rose, it isn't because you aren't incredible.",3
+1031,testimony,,hannahb,aside,So tonight I am really scared because I don't know how he's feeling. My worst fear is that I don't get a rose.,3
+1032,dialogue,,colton,hannahg,"Hannah G. Hannah, will you accept this rose?",3
+1033,dialogue,,hannahg,colton,"Absolutely, yes. Thank you so much.",3
+1034,dialogue,,colton,hannahg,You're welcome.,3
+1035,dialogue,,colton,tayshia,"Tayshia. Tayshia, will you accept this rose?",3
+1036,dialogue,,tayshia,colton,Absolutely.,3
+1037,testimony,,nina,aside,I'm feeling nervous because Hannah and Caelynn occupied most of the time with Colton...,3
+1038,dialogue,,colton,katie,"Katie. Katie, will you accept this rose?",3
+1039,testimony,,nina,aside,"And because of that I didn't have any time to speak with him, so it sucks. There's the potential that I could go home tonight.",3
+1040,dialogue,,colton,cassie,"Cassie. Cassie, will you accept this rose?",3
+1041,dialogue,,cassie,colton,"Yes, of course.",3
+1042,testimony,,onyeka,aside,"I had something special planned with Colton today, and it just doesn't sit well with me knowing that I never got time to talk to him.",3
+1043,dialogue,,colton,kirpa,"Kirpa. Kirpa, will you accept this rose?",3
+1044,dialogue,,kirpa,colton,"Yes, absolutely. Thanks.",3
+1045,testimony,,onyeka,aside,"I think what I had planned with him, he would have much more enjoyed that than listening to two pageant girls talk through their drama for two hours.",3
+1046,dialogue,,colton,sydney,"Sydney. Sydney, will you accept this rose?",3
+1047,dialogue,,sydney,colton,Yes.,3
+1048,testimony,,caelynn,aside,"I do have a rose, but it's still scary. Colton could be the one, and I'm afraid Hannah B. will continue to interfere in something that could potentially be my future.",3
+1049,dialogue,,colton,demi,"Demi. Demi, will you accept this rose?",3
+1050,dialogue,,demi,colton,I am ecstatic to accept this rose.,3
+1051,testimony,,caelynn,aside,"I know her pattern of behavior, and I know how manipulative she can be, so life would be much easier if Hannah B. didn't get a rose.",3
+1052,dialogue,,colton,tracy,"Tracy. Tracy, will you accept this rose?",3
+1053,dialogue,,tracy,colton,"Yes, I will. Thank you.",3
+1054,testimony,,hannahb,aside,Caelynn today showed that she was a snake...,3
+1055,dialogue,,colton,courtney,Courtney.,3
+1056,testimony,,hannahb,aside,"Just upsetting and frustrating, and annoying.",3
+1057,dialogue,,colton,courtney,"Courtney, will you accept this rose?",3
+1058,dialogue,,courtney,colton,I would love to.,3
+1059,dialogue,,colton,heather,Heather.,3
+1060,testimony,,hannahb,aside,Being here with Caelynn brings out my worse side.,3
+1061,dialogue,,colton,heather,"Heather, will you accept this rose?",3
+1062,dialogue,,heather,colton,Of course. Thank you so much.,3
+1063,testimony,,hannahb,aside,What if he believes her lies and he doesn't give me a rose tonight?,3
+1064,dialogue,,colton,onyeka,"Onyeka. Onyeka, will you accept this rose?",3
+1065,dialogue,,onyeka,colton,Of course.,3
+1066,testimony,,hannahb,aside,"If Caelynn is the reason that I go home, I would be heartbroken. It would probably be the worst thing that could happen.",3
+1067,dialogue,,chris,all,Ladies... Colton... it's the final rose tonight. When you're ready.,3
+1068,dialogue,,colton,hannahb,"Hannah B. Hannah, will you accept this rose?",3
+1069,dialogue,,hannahb,colton,"Yes, I will. Thank you.",3
+1070,dialogue,shaky sigh,hannahb,self,,3
+1071,dialogue,,chris,women,"Ladies, I'm sorry. You did not receive a rose. Take a moment, say your good‐byes.",3
+1072,sound,somber music,,,,3
+1073,sound,quiet chatter,,,,3
+1074,dialogue,,nina,colton,Thank you. I wish you the best of luck.,3
+1075,dialogue,,colton,nina,Thank you.,3
+1076,dialogue,,???,women,"Bye, ladies.",3
+1077,dialogue,,women,???,Bye.,3
+1078,testimony,,caelynn,aside,I feel disappointed. Hannah B. should go home because it worries me to think she could continue to try and stab at our relationship...,3
+1079,sound,indistinct chatter,,,,3
+1080,dialogue,,bri,colton,Good luck.,3
+1081,dialogue,,colton,bri,Thank you.,3
+1082,testimony,,caelynn,aside,So it's‐‐ it's incredibly frustrating.,3
+1083,dialogue,,catherine,colton,Nice meeting you.,3
+1084,dialogue,,colton,catherine,Hey.,3
+1085,dialogue,,catherine,colton,I had fun.,3
+1086,dialogue,,colton,catherine,Take care of Lucy. Give her a big hug for me.,3
+1087,dialogue,,catherine,colton,I will. I'm so excited to see her.,3
+1088,dialogue,,women,catherine,"Bye, we love you.",3
+1089,sound,tense music,,,,3
+1090,sound,all chattering,,,,3
+1091,testimony,,hannahb,aside,"I am happy. I mean, I'm glad I'm here. But I don't feel very good.",3
+1092,dialogue,,colton,women,"Looking around right now, I can't wait to continue this journey with you guys.",3
+1093,testimony,,hannahb,aside,"I mean, I was the last one called for a rose, and it was just scary. I literally just wanted to look at him when I got the rose and be like... ""Why are‐‐why did you just do that? I really like you, but thank you."" I don't feel like that would have ever happened if people wouldn't have talked about me the way they have.",3
+1094,exclamation,,women,self,Cheers to us.,3
+1095,testimony,bleep,hannahb,aside,I don't deserve all this stuff being said about me. I just never thought this would ever happen to me. It's just not fair. I hate her.,3
+1096,sound,dramatic music,,,,3
+1097,sound,sniffs,,,,3
