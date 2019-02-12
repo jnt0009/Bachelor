@@ -7,6 +7,8 @@ library(RCurl)
 library(rsconnect)
 library(wordcloud)
 library(tm)
+library(SnowballC)
+
 source('source.R')
 shinyServer(function(input, output,session) {
   ## Functions ##
